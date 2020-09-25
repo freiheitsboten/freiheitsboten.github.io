@@ -5,12 +5,12 @@ Du möchtest Flugblätter, Infobriefe und Informationen in Deiner Gegend verteil
 Ist deine Gruppe noch nicht aufgeführt? Schicke bitte eine Nachricht mit [Gruppen-Link und Bundesland an Robin.](https://t.me/robin4242) 
 
 ## Telegram Messenger
-Die Freiheitsboten vernetzen sich mit der [Telegram App](https://telegram.org/). Telegram ist sehr ähnlich zu WhatsApp. Zusätzlich ermöglicht es Gruppen zu organisieren. Du kannst Dir Telegram auf dem Smartphone oder Laptop installieren.
-
+Die Freiheitsboten vernetzen sich mit der [Telegram App](https://telegram.org/). Telegram ist sehr ähnlich zu WhatsApp. Zusätzlich ermöglicht es sich in Gruppen zu organisieren. Du kannst Dir Telegram auf dem Smartphone oder Laptop installieren.
 
 # Freiheitsboten Ortsgruppen 
 Eine Liste der Ortsgruppen der [Freiheitsboten Telegram Gruppe](https://t.me/Freiheitsboten) in Deutschland und der Schweiz. 
 Falls du deine Region hier nicht findest, dann ergreife selbst Initiative. [Gründe eine Gruppe](https://telegram.org/faq/de?ln=f#f-wie-kann-ich-eine-gruppe-erstellen) und vernetz dich mit den anderen Gruppen in deiner Umgebung. Untereinander austauschen und voneinander lernen!
+
 
 ## Deutschland 🇩🇪
 
@@ -234,7 +234,7 @@ Falls du deine Region hier nicht findest, dann ergreife selbst Initiative. [Grü
 
 # Unterstützung 
 
-Wenn Du die Freiheitsboten gerne unterstützen möchtest kannst Bodo Geld schenken. Max. 19.999 € in 10 Jahren.
+Wenn Du die Freiheitsboten gerne unterstützen möchtest kannst Du Bodo Geld schenken. Max. 19.999 € in 10 Jahren.
 
 [Paypal](https://paypal.me/boschimo)
 
