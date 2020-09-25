@@ -107,7 +107,7 @@ Die Freiheitsboten vernetzen sich mit der [Telegram App](https://telegram.org/).
 - [Oberpfalz](https://t.me/joinchat/AAAAAEtqPAFoL8gVj2mkYw)
 - [Ludwigshafen](https://t.me/freiheitsbote_ludwigshafen)
 - [Weinstraße](https://t.me/Friedensboten_SUEW)
-
+- [Worms](https://t.me/joinchat/RWwG-kinpjYF8r9ZNVozkw)
 
 ### Saarland
 - [Köllertal](https://t.me/Freiheitsboten_Köllertal)
