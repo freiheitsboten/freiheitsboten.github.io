@@ -85,6 +85,7 @@ Falls du deine Region hier nicht findest, dann ergreife selbst Initiative. [Grü
 - [Dortmund](https://t.me/freiheitsboteDortmund)
 - [Hagen](https://t.me/Freiheitsboten_Hagen_NRW)
 - [Gelsenkirchen](https://t.me/Freiheitsboten_Gelsenkirchen)
+- [Gütersloh](https://t.me/Freiheitsboten_Kreis_Guetersloh )
 - [Köln](https://t.me/Freiheitsboten_Koeln)
 - [Lippstadt](https://t.me/Freiheitsboten_Lippstadt)
 - [Moers](https://t.me/friedensboten_Moers)
