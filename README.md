@@ -210,11 +210,8 @@ oder
 
 
 > Dr. Bodo Schiffmann
-
 > IBAN: DE61 6635 0036 0017 5081 96
-
 > BIC: BRUSDE66XXX
-
 > Sparkasse Kraichgau
 
 covid-19@Schwindelambulanz-sinsheim.de
