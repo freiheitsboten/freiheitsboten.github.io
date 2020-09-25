@@ -92,6 +92,7 @@ Falls du deine Region hier nicht findest, dann ergreife selbst Initiative. [Grü
 
 ### Niedersachsen
 - [Celle](https://t.me/Freiheitsboten_Celle)
+- [Cuxhaven Wurster Nordseeküste](https://t.me/joinchat/AAAAAE9VePDo6yCerEJ85w)
 - [Hannover](https://t.me/Freiheitsboten_Hannover)
 - [Hildesheim](https://t.me/freiheitsboten_hildesheim)
 - [Hameln-Pyrmont](https://t.me/Freiheitsboten_HM_Pyrmont)
