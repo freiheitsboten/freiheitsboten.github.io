@@ -12,7 +12,7 @@ Eine Liste der Ortsgruppen der [Freiheitsboten Telegram Gruppe](https://t.me/Fre
 - Hier kannst Du alle Grafiken als [zip-Datei herunterladen](https://github.com/freiheitsboten/grafiken/archive/master.zip).
 
 ## Telegram Messenger
-Die Freiheitsboten vernetzen sich mit der [Telegram App](https://telegram.org/). Telegram ist sehr ähnlich zu WhatsApp. Zusätzlich ermöglicht es Gruppen zu organisieren. Sie können sich Telegram auf dem Smartphone oder Laptop installieren.
+Die Freiheitsboten vernetzen sich mit der [Telegram App](https://telegram.org/). Telegram ist sehr ähnlich zu WhatsApp. Zusätzlich ermöglicht es Gruppen zu organisieren. Du kannst Dir Telegram auf dem Smartphone oder Laptop installieren.
 
 
 # Ortsgruppen 
