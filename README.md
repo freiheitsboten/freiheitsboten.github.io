@@ -1,10 +1,7 @@
-# Freiheitsboten Ortsgruppen
+# Dezentrale Freiheitsboten
 
+Du möchtest Flugblätter, Infobriefe und Informationen in Deiner Gegend verteilen, [komm in unsere Gruppe und unterstütze und dabei](https://t.me/Freiheitsboten), Du findest regelmäßig neue professionelle Flugblätter und Infozettel für Deine Spaziergänge.
 
-
-> Du möchtest Flugblätter, Infobriefe und Informationen in Deiner Gegend verteilen, dann komm in unsere Gruppe und unterstütze und dabei, Du findest regelmäßig neue professionelle Flugblätter und Infozettel für Deine Spaziergänge
-
-Eine Liste der Ortsgruppen der [Freiheitsboten Telegram Gruppe](https://t.me/Freiheitsboten) in Deutschland und der Schweiz. 
 
 ## Grafiken Herunterladen
 
@@ -15,7 +12,9 @@ Eine Liste der Ortsgruppen der [Freiheitsboten Telegram Gruppe](https://t.me/Fre
 Die Freiheitsboten vernetzen sich mit der [Telegram App](https://telegram.org/). Telegram ist sehr ähnlich zu WhatsApp. Zusätzlich ermöglicht es Gruppen zu organisieren. Du kannst Dir Telegram auf dem Smartphone oder Laptop installieren.
 
 
-# Ortsgruppen 
+# Freiheitsboten Ortsgruppen 
+Eine Liste der Ortsgruppen der [Freiheitsboten Telegram Gruppe](https://t.me/Freiheitsboten) in Deutschland und der Schweiz. 
+Falls du deine Region hier nicht findest, dann ergreife selbst Initiative. [Gründe eine Gruppe](https://telegram.org/faq/de?ln=f#f-wie-kann-ich-eine-gruppe-erstellen) und vernetz dich mit den anderen Gruppen in deiner Umgebung. Untereinander austauschen und voneinander lernen!
 
 ## Deutschland 🇩🇪
 
@@ -144,7 +143,7 @@ Die Freiheitsboten vernetzen sich mit der [Telegram App](https://telegram.org/).
 - [Lübeck](https://t.me/Freiheitsboten_Luebeck)
 - [Schwarzenbek](https://t.me/FreiheitsbotenSBK)
 
-
-
 # Schweiz 🇨🇭
 - [Bern](https://t.me/joinchat/KVZzYBzZu59IMhcQV6I8eg)
+
+# Österreich :-( 
