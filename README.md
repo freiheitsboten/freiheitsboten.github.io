@@ -62,6 +62,20 @@ Falls du deine Region hier nicht findest, dann ergreife selbst Initiative. [Grü
 ### Bremen
 - [Bremen](https://t.me/Freiheitsboten_Bremen)
 
+### Hamburg
+- [Hamburg Süderelbe](https://t.me/Freiheitsbote_Hamburg)
+- [Hamburg Mitte](https://t.me/Freiheitsboten_Hamburg)
+
+
+### Hessen
+- [Darmstadt](https://t.me/Freiheitsboten_Darmstadt_Kreis)
+- [Frankfurt](https://t.me/c/1264448248/1264)
+- [Frankfurt](https://t.me/FreiheitsbotenFrankfurt)
+- [Gießen](https://t.me/Freiheitsboten_Giessen)
+- [Main Bingen](https://t.me/freiheitsboten_mainz_bingen)
+- [Marburg](https://t.me/freiheitsboten_marburg)
+- [Offenbach](https://t.me/Freiheitsboten_Offenbach_Kreis)
+- [Osthessen](https://t.me/freiheitsbotenosthessen)
 
 ### NRW
 - [Bonn](https://t.me/FreiheitsboteBonnRheinSieg)
@@ -87,22 +101,6 @@ Falls du deine Region hier nicht findest, dann ergreife selbst Initiative. [Grü
 - [Rostock](https://t.me/FreiheitsbotenRostockDBRUmgebung)
 
 
-### Hamburg
-- [Hamburg Süderelbe](https://t.me/Freiheitsbote_Hamburg)
-- [Hamburg Mitte](https://t.me/Freiheitsboten_Hamburg)
-
-
-### Hessen
-- [Darmstadt](https://t.me/Freiheitsboten_Darmstadt_Kreis)
-- [Frankfurt](https://t.me/c/1264448248/1264)
-- [Frankfurt](https://t.me/FreiheitsbotenFrankfurt)
-- [Gießen](https://t.me/Freiheitsboten_Giessen)
-- [Main Bingen](https://t.me/freiheitsboten_mainz_bingen)
-- [Marburg](https://t.me/freiheitsboten_marburg)
-- [Offenbach](https://t.me/Freiheitsboten_Offenbach_Kreis)
-- [Osthessen](https://t.me/freiheitsbotenosthessen)
-
-
 ### Rheinland Pfalz
 - [Eich](https://t.me/freiheitsboten_vgeich)
 - [Germsheim](https://t.me/Freiheitsboten_GermersheimSpeyer)
@@ -125,6 +123,11 @@ Falls du deine Region hier nicht findest, dann ergreife selbst Initiative. [Grü
 - [Halle](https://t.me/Freiheitsboten_Halle)
 - [Tangerhütte](https://t.me/kim39517)
 
+### Schleswig-Holstein
+- [Flensburg](https://t.me/FreiheitsbotenOstsee_FL_bis_Kiel)
+- [Kiel](https://t.me/Freiheitsboten_Kiel)
+- [Lübeck](https://t.me/Freiheitsboten_Luebeck)
+- [Schwarzenbek](https://t.me/FreiheitsbotenSBK)
 
 ### Thüringen
 - [Altenburger Land](https://t.me/Freiheitsboten_AltenburgerLand)
@@ -140,11 +143,6 @@ Falls du deine Region hier nicht findest, dann ergreife selbst Initiative. [Grü
 - [Wartburgkreis](https://t.me/Freiheitsboten_Wartburgkreis)
 
 
-### Schleswig-Holstein
-- [Flensburg](https://t.me/FreiheitsbotenOstsee_FL_bis_Kiel)
-- [Kiel](https://t.me/Freiheitsboten_Kiel)
-- [Lübeck](https://t.me/Freiheitsboten_Luebeck)
-- [Schwarzenbek](https://t.me/FreiheitsbotenSBK)
 
 # Schweiz 🇨🇭
 - [Bern](https://t.me/joinchat/KVZzYBzZu59IMhcQV6I8eg)
