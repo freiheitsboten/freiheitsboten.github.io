@@ -112,8 +112,10 @@ Falls du deine Region hier nicht findest, dann ergreife selbst Initiative. [Grü
 
 
 ### Mecklenburg-Vorpommern
+- [Neubrandenburg](https://t.me/friedensbotenneubrandenburg)
 - [Rostock](https://t.me/FreiheitsbotenRostockDBRUmgebung)
 - [Schwerin](https://t.me/Freiheitsboten_Schwerin)
+
 
 ### Rheinland Pfalz
 - [Eich](https://t.me/freiheitsboten_vgeich)
