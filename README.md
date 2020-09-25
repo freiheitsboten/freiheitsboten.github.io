@@ -5,9 +5,44 @@ Du möchtest Flugblätter, Infobriefe und Informationen in Deiner Gegend verteil
 
 ## Grafiken Herunterladen
 
-- Hier kannst Du die [einzelnen Grafiken zum Ausdrucken herunterladen](https://github.com/freiheitsboten/grafiken). 
-- Hier kannst Du alle Grafiken als [zip-Datei herunterladen](https://github.com/freiheitsboten/grafiken/archive/master.zip).
+<a href="https://github.com/freiheitsboten/grafiken/tree/master/flyer1">
+	<img src="https://raw.githubusercontent.com/freiheitsboten/grafiken/master/flyer1/preview.png">
+</a>
+<a href="https://github.com/freiheitsboten/grafiken/tree/master/flyer2">
+	<img src="https://raw.githubusercontent.com/freiheitsboten/grafiken/master/flyer2/preview.png">
+</a>
+<a href="https://github.com/freiheitsboten/grafiken/tree/master/flyer3">
+	<img src="https://raw.githubusercontent.com/freiheitsboten/grafiken/master/flyer3/preview.png">
+</a>
+<a href="https://github.com/freiheitsboten/grafiken/tree/master/flyer4">
+	<img src="https://raw.githubusercontent.com/freiheitsboten/grafiken/master/flyer4/preview.png">
+</a>
+<a href="https://github.com/freiheitsboten/grafiken/tree/master/flyer5">
+	<img src="https://raw.githubusercontent.com/freiheitsboten/grafiken/master/flyer5/preview.png">
+</a>
+<a href="https://github.com/freiheitsboten/grafiken/tree/master/flyer6">
+	<img src="https://raw.githubusercontent.com/freiheitsboten/grafiken/master/flyer6/preview.png">
+</a>
+<a href="https://github.com/freiheitsboten/grafiken/tree/master/flyer7">
+	<img src="https://raw.githubusercontent.com/freiheitsboten/grafiken/master/flyer7/preview.png">
+</a>
+<a href="https://github.com/freiheitsboten/grafiken/tree/master/flyer8">
+	<img src="https://raw.githubusercontent.com/freiheitsboten/grafiken/master/flyer8/preview.png">
+</a>
+<a href="https://github.com/freiheitsboten/grafiken/tree/master/flyer9">
+	<img src="https://raw.githubusercontent.com/freiheitsboten/grafiken/master/flyer9/preview.png">
+</a>
+<a href="https://github.com/freiheitsboten/grafiken/tree/master/flyer10">
+	<img src="https://raw.githubusercontent.com/freiheitsboten/grafiken/master/flyer10/preview.png">
+</a>
+
+
+### Weitere Grafiken
+
 - Hier kannst Du [weitere Grafiken zum Ausdrucken herunterladen und Rohdateien finden](https://cloud.creative-services.info/s/G6DERKyrgAhRuUi)
+- Hier kannst Du alle Grafiken als [zip-Datei herunterladen](https://github.com/freiheitsboten/grafiken/archive/master.zip).
+
+
 
 
 ## Telegram Messenger
