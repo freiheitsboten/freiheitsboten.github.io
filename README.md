@@ -8,6 +8,13 @@ Eine Liste der Ortsgruppen der [Freiheitsboten Telegram Gruppe](https://t.me/Fre
 
 Hier lassen sich die [Grafiken zum Ausdrucken downloaden](https://github.com/freiheitsboten/grafiken).
 
+## Telegram Messenger
+Die Freiheitsboten vernetzen sich durch die [Telegram App](https://telegram.org/).
+Sie können sich Telegram auf dem Smartphone oder Laptop installieren.
+
+
+# Ortsgruppen 
+
 ## Deutschland 🇩🇪
 
 ### Baden Würtenberg
