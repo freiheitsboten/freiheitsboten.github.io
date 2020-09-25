@@ -102,6 +102,7 @@ Falls du deine Region hier nicht findest, dann ergreife selbst Initiative. [Grü
 ### Hamburg
 - [Hamburg Süderelbe](https://t.me/Freiheitsbote_Hamburg)
 - [Hamburg Mitte](https://t.me/Freiheitsboten_Hamburg)
+- [Hamburg-Nord Norderstedt](t.me/Freiheitsboten_HH_Nord_Norderst)
 
 
 ### Hessen
@@ -120,6 +121,7 @@ Falls du deine Region hier nicht findest, dann ergreife selbst Initiative. [Grü
 - [Köln](https://t.me/Freiheitsboten_Koeln)
 - [Lippstadt](https://t.me/Freiheitsboten_Lippstadt)
 - [Moers](https://t.me/friedensboten_Moers)
+- [Mönchengladbach](https://t.me/Freiheitsboten_MG)
 - [Oberhausen](https://t.me/Freiheitsboten_Oberhausen_Rhld)
 - [Paderborn](https://t.me/Freiheitsboten_Paderborn)
 - [Siegen Wittgenstein](https://t.me/freiheitsbotensiegenwittgenstein)
@@ -140,7 +142,7 @@ Falls du deine Region hier nicht findest, dann ergreife selbst Initiative. [Grü
 
 ### Mecklenburg-Vorpommern
 - [Rostock](https://t.me/FreiheitsbotenRostockDBRUmgebung)
-
+- [Schwerin](https://t.me/Freiheitsboten_Schwerin)
 
 ### Rheinland Pfalz
 - [Eich](https://t.me/freiheitsboten_vgeich)
