@@ -16,7 +16,7 @@ Falls du deine Region hier nicht findest, dann ergreife selbst Initiative. [Grü
 
 ### Baden-Württemberg
 - [Bonndorf](https://t.me/Freiheitsboten_Bonndorf)
-- [Esslingen am Neckar](https://t.me/Freiheitsboten_LKR_Esslingen_N)
+- [Landkreis Esslingen am Neckar](https://t.me/Freiheitsboten_LKR_Esslingen_N)
 - [Freiburg](https://t.me/Freiheitsboten_Freiburg)
 - [Hechingen](https://t.me/Freiheitsbote_Hechingen)
 - [Heidenheim](https://t.me/Hoidna)
@@ -128,7 +128,7 @@ Falls du deine Region hier nicht findest, dann ergreife selbst Initiative. [Grü
 
 
 ### Saarland
-- [Köllerbachtal](https://t.me/Freiheitsboten_Köllertal)
+- [Köllerbachtal](https://t.me/FreiheitsbotenKoellertal)
 - [Saarland](https://t.me/Freiheitsboten_Saarland)
 - [Saarlouis](https://t.me/Freiheitsboten_Saarlouis)
 - [Saarpfalzkreis](https://t.me/Freiheitsboten_Saarpfalzkreis)
