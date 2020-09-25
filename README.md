@@ -6,7 +6,10 @@
 
 Eine Liste der Ortsgruppen der [Freiheitsboten Telegram Gruppe](https://t.me/Freiheitsboten) in Deutschland und der Schweiz. 
 
-Hier lassen sich die [einzelnen Grafiken zum Ausdrucken herunterladen](https://github.com/freiheitsboten/grafiken). Hier können Sie alle Grafiken als [zip-Datei herunterladen](https://github.com/freiheitsboten/grafiken/archive/master.zip).
+## Grafiken Herunterladen
+
+- Hier lassen sich die [einzelnen Grafiken zum Ausdrucken herunterladen](https://github.com/freiheitsboten/grafiken). 
+- Hier können Sie alle Grafiken als [zip-Datei herunterladen](https://github.com/freiheitsboten/grafiken/archive/master.zip).
 
 ## Telegram Messenger
 Die Freiheitsboten vernetzen sich auf der [Telegram App](https://telegram.org/). Telegram ist sehr ähnlich zu WhatsApp. Zusätzlich ermöglicht es Gruppen zu organisieren. Sie können sich Telegram auf dem Smartphone oder Laptop installieren.
