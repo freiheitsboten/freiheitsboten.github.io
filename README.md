@@ -75,6 +75,7 @@ Falls du deine Region hier nicht findest, dann ergreife selbst Initiative. [Grü
 - [Frankfurt](https://t.me/FreiheitsbotenFrankfurt)
 - [Gießen](https://t.me/Freiheitsboten_Giessen)
 - [Marburg](https://t.me/freiheitsboten_marburg)
+- [Main-Taunus-Kreis](https://t.me/Freiheitsboten_MTK)
 - [Offenbach](https://t.me/Freiheitsboten_Offenbach_Kreis)
 - [Osthessen](https://t.me/freiheitsbotenosthessen)
 
