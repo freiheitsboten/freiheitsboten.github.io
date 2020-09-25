@@ -7,6 +7,8 @@ Du möchtest Flugblätter, Infobriefe und Informationen in Deiner Gegend verteil
 
 - Hier kannst Du die [einzelnen Grafiken zum Ausdrucken herunterladen](https://github.com/freiheitsboten/grafiken). 
 - Hier kannst Du alle Grafiken als [zip-Datei herunterladen](https://github.com/freiheitsboten/grafiken/archive/master.zip).
+- Hier kannst Du [weitere Grafiken zum Ausdrucken herunterladen und Rohdateien finden](https://cloud.creative-services.info/s/G6DERKyrgAhRuUi)
+
 
 ## Telegram Messenger
 Die Freiheitsboten vernetzen sich mit der [Telegram App](https://telegram.org/). Telegram ist sehr ähnlich zu WhatsApp. Zusätzlich ermöglicht es Gruppen zu organisieren. Du kannst Dir Telegram auf dem Smartphone oder Laptop installieren.
