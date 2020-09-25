@@ -74,7 +74,7 @@ Falls du deine Region hier nicht findest, dann ergreife selbst Initiative. [Grü
 - [Günzburg Dillingen](https://t.me/freigzdil)
 - [Kitzingen](https://t.me/Friedensboten_Kitzingen)
 - [Landshut](https://t.me/Freiheitsboten_Landshut)
-- [München](https://t.me/Freiheitsboten_München)
+- [München](https://t.me/freiheits_flyer_muenchen)
 - [Miesbach](https://t.me/FreiheitsbotenLkrsMb)
 - [Miltenberg](https://t.me/aktionmil)
 - [Nürnberg](https://t.me/freiheitsbote_nuernberg)
@@ -83,7 +83,7 @@ Falls du deine Region hier nicht findest, dann ergreife selbst Initiative. [Grü
 - [Pfronten](https://t.me/Freiheitsboten_Pfronten_Umgebung)
 - [Regensburg](https://t.me/FreiheitsbotenRegensburg)
 - [Rosenheim](https://t.me/freiheitsboten_rosenheim)
-
+- [Schweinfurt](https://t.me/flyerbestellenschweinfurt)
 
 ### Berlin
 - [Berlin](https://t.me/Freiheitsboten_Berlin)
@@ -125,6 +125,7 @@ Falls du deine Region hier nicht findest, dann ergreife selbst Initiative. [Grü
 
 
 ### Niedersachsen
+- [Celle](https://t.me/Freiheitsboten_Celle)
 - [Hannover](https://t.me/Freiheitsboten_Hannover)
 - [Hildesheim](https://t.me/freiheitsboten_hildesheim)
 - [Göttingen](https://t.me/Freiheitsboten_Goettingen)
@@ -157,11 +158,11 @@ Falls du deine Region hier nicht findest, dann ergreife selbst Initiative. [Grü
 
 
 ### Sachsen
-- [Dessau](https://t.me/Freiheitsboten_Dessau)
 - [Leipzig](https://t.me/Freiheitsverteiler_Leipzig)
 
 
 ### Sachsen-Anhalt
+- [Dessau](https://t.me/Freiheitsboten_Dessau)
 - [Halle](https://t.me/Freiheitsboten_Halle)
 - [Tangerhütte](https://t.me/kim39517)
 
