@@ -167,7 +167,7 @@ Falls du deine Region hier nicht findest, dann ergreife selbst Initiative. [Grü
 - [Fribourg (Schweiz)](https://t.me/Freiheitsboten_Fribourg_Schweiz)
 
 ## Österreich
-- Wo sind die Österreicher ???
+- [Österreich](https://t.me/freiheitsbotenoesterreichchat)
 
 
 # Grafiken Herunterladen
