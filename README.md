@@ -56,8 +56,9 @@ Falls du deine Region hier nicht findest, dann ergreife selbst Initiative. [Grü
 ### Baden Würtenberg
 - [Bonndorf](https://t.me/Freiheitsboten_Bonndorf)
 - [Freiburg](https://t.me/Freiheitsboten_Freiburg)
-- [Heidenheim](https://t.me/FreiheitsbotenHDH)
 - [Hechingen](https://t.me/Freiheitsbote_Hechingen)
+- [Heidenheim](https://t.me/Hoidna)
+- [Heidenheim-2](https://t.me/FreiheitsbotenHDH)
 - [Karlsruhe](https://t.me/Freiheitsboten_Karlsruhe)
 - [Ortenau](https://t.me/Freiheitsboten_Ortenau)
 - [Rhein-Neckar-Kreis](https://t.me/Freiheitsboten_RNK_chat)
@@ -116,6 +117,7 @@ Falls du deine Region hier nicht findest, dann ergreife selbst Initiative. [Grü
 - [Dortmund](https://t.me/freiheitsboteDortmund)
 - [Hagen](https://t.me/Freiheitsboten_Hagen_NRW)
 - [Köln](https://t.me/Freiheitsboten_Koeln)
+- [Lippstadt](https://t.me/Freiheitsboten_Lippstadt)
 - [Moers](https://t.me/friedensboten_Moers)
 - [Oberhausen](https://t.me/Freiheitsboten_Oberhausen_Rhld)
 - [Paderborn](https://t.me/Freiheitsboten_Paderborn)
@@ -145,7 +147,9 @@ Falls du deine Region hier nicht findest, dann ergreife selbst Initiative. [Grü
 - [Ludwigshafen](https://t.me/freiheitsbote_ludwigshafen)
 - [Mainz Bingen](https://t.me/freiheitsboten_mainz_bingen)
 - [Weinstraße](https://t.me/Friedensboten_SUEW)
+- [Westerwald](https://t.me/freiheitsboten_Westerwald)
 - [Worms](https://t.me/joinchat/RWwG-kinpjYF8r9ZNVozkw)
+
 
 ### Saarland
 - [Köllerbachtal](https://t.me/Freiheitsboten_Köllertal)
