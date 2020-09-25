@@ -111,6 +111,7 @@ Falls du deine Region hier nicht findest, dann ergreife selbst Initiative. [Grü
 
 ### Rheinland Pfalz
 - [Eich](https://t.me/freiheitsboten_vgeich)
+- [Frankenthal](https://t.me/Freiheitsboten_FT)
 - [Germersheim](https://t.me/Freiheitsboten_GermersheimSpeyer)
 - [Ludwigshafen](https://t.me/freiheitsbote_ludwigshafen)
 - [Kaiserslautern](https://t.me/Freiheitsboten_Kaiserslautern)
