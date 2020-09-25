@@ -4,9 +4,9 @@
 
 > Du möchtest Flugblätter, Infobriefe und Informationen in Deiner Gegend verteilen, dann komm in unsere Gruppe und unterstütze und dabei, Du findest regelmäßig neue professionelle Flugblätter und Infozettel für Deine Spaziergänge
 
-Eine Liste der Ortsgruppen der [Freiheitsboten](https://t.me/Freiheitsboten) in Deutschland und der Schweiz. 
+Eine Liste der Ortsgruppen der [Freiheitsboten Telegram Gruppe](https://t.me/Freiheitsboten) in Deutschland und der Schweiz. 
 
-Hier lassen sich die [Grafiken zum drucken downloaden](https://github.com/freiheitsboten/grafiken).
+Hier lassen sich die [Grafiken zum Ausdrucken downloaden](https://github.com/freiheitsboten/grafiken).
 
 ## Deutschland 🇩🇪
 
