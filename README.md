@@ -106,7 +106,7 @@ Falls du deine Region hier nicht findest, dann ergreife selbst Initiative. [Grü
 - [Hameln-Pyrmont](https://t.me/Freiheitsboten_HM_Pyrmont)
 - [Göttingen](https://t.me/Freiheitsboten_Goettingen)
 - [Oldenburg](https://t.me/Freiheitsboten_Oldenburg441)
-- [Ostfriesland](https://t.me/https://t.me/querdenken494)
+- [Ostfriesland](https://t.me/Freiheitsboten_Ostfriesland)
 - [Lüneburg](https://t.me/Freiheitsbote_LG)
 - [Wedemark](https://t.me/freiheitsboten_wedemark)
 
