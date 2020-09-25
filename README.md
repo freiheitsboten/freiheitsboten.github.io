@@ -153,6 +153,7 @@ Falls du deine Region hier nicht findest, dann ergreife selbst Initiative. [Grü
 ### Thüringen
 - [Altenburger Land](https://t.me/Freiheitsboten_AltenburgerLand)
 - [Apolda](https://t.me/Freiheitsboten_Apolda_WL)
+- [Arnstadt](https://t.me/Arnstadt)
 - [Bleicherode](https://t.me/Freiheitsboten_LK_Bleicherode)
 - [Eisenach](https://t.me/Freiheitsboten_Eisenach)
 - [Eichsfeld](https://t.me/Freiheitsboten_Eichsfeld)
