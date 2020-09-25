@@ -42,6 +42,7 @@ Falls du deine Region hier nicht findest, dann ergreife selbst Initiative. [Grü
 - [Landsberg am Lech](https://t.me/Freiheitsboten_Landsberg)
 - [Pfarrkirchen](https://t.me/FreiheitsbotenPfarrkirchen)
 - [Pfronten](https://t.me/Freiheitsboten_Pfronten_Umgebung)
+- [Ravensburg](https://t.me/Freiheitsboten_RV)
 - [Regensburg](https://t.me/joinchat/Rd968BZkcixFSxUQwm_hIQ)
 - [Regensburg-2](https://t.me/FreiheitsbotenRegensburg)
 - [Rosenheim](https://t.me/freiheitsboten_rosenheim)
