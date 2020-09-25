@@ -60,6 +60,7 @@ Falls du deine Region hier nicht findest, dann ergreife selbst Initiative. [Grü
 - [Freiburg](https://t.me/Freiheitsboten_Freiburg)
 - [Heidenheim](https://t.me/FreiheitsbotenHDH)
 - [Hechingen](https://t.me/Freiheitsbote_Hechingen)
+- [Karlsruhe](https://t.me/Freiheitsboten_Karlsruhe)
 - [Ortenau](https://t.me/Freiheitsboten_Ortenau)
 - [Rhein-Neckar-Kreis](https://t.me/Freiheitsboten_RNK_chat)
 - [Stuttgart](https://t.me/Stuttgart_in_Freiheit)
@@ -81,7 +82,8 @@ Falls du deine Region hier nicht findest, dann ergreife selbst Initiative. [Grü
 - [Landsberg](https://t.me/Freiheitsboten_Landsberg)
 - [Pfarrkirchen](https://t.me/FreiheitsbotenPfarrkirchen)
 - [Pfronten](https://t.me/Freiheitsboten_Pfronten_Umgebung)
-- [Regensburg](https://t.me/FreiheitsbotenRegensburg)
+- [Regensburg](https://t.me/joinchat/Rd968BZkcixFSxUQwm_hIQ)
+- [Regensburg-2](https://t.me/FreiheitsbotenRegensburg)
 - [Rosenheim](https://t.me/freiheitsboten_rosenheim)
 - [Schweinfurt](https://t.me/flyerbestellenschweinfurt)
 
@@ -190,4 +192,5 @@ Falls du deine Region hier nicht findest, dann ergreife selbst Initiative. [Grü
 # Schweiz 🇨🇭
 - [Bern](https://t.me/joinchat/KVZzYBzZu59IMhcQV6I8eg)
 
-# Österreich :-( 
+# Österreich
+- Wo sind die Österreicher ???
