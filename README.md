@@ -14,8 +14,9 @@ Falls du deine Region hier nicht findest, dann ergreife selbst Initiative. [Grü
 
 ## Deutschland 🇩🇪
 
-### Baden Würtenberg
+### Baden-Württenberg
 - [Bonndorf](https://t.me/Freiheitsboten_Bonndorf)
+- [Esslingen am Neckar](https://t.me/Freiheitsboten_LKR_Esslingen_N)
 - [Freiburg](https://t.me/Freiheitsboten_Freiburg)
 - [Hechingen](https://t.me/Freiheitsbote_Hechingen)
 - [Heidenheim](https://t.me/Hoidna)
