@@ -152,16 +152,21 @@ Falls du deine Region hier nicht findest, dann ergreife selbst Initiative. [Grü
 ### Thüringen
 - [Altenburger Land](https://t.me/Freiheitsboten_AltenburgerLand)
 - [Apolda](https://t.me/Freiheitsboten_Apolda_WL)
+- [Bleicherode](https://t.me/Freiheitsboten_LK_Bleicherode)
 - [Eisenach](https://t.me/Freiheitsboten_Eisenach)
 - [Eichsfeld](https://t.me/Freiheitsboten_Eichsfeld)
 - [Erfurt](https://t.me/Freiheitsboten_Erfurt)
 - [Gotha](https://t.me/Freiheitsboten_LandkreisGotha)
 - [Holzland](https://t.me/Freiheitsboten_Holzland)
+- [Ilmenau](https://t.me/Freiheitsboten_Ilmenau)
 - [Jena](https://t.me/freiheitsboten_jena)
+- [Saalfeld-Rudolstadt](https://t.me/FreiheitsbotenSlfRu)
 - [Südthüringen](https://t.me/Freiheitsboten_Suedthueringen)
 - [Sonneberg](https://t.me/Freiheitsboten_Sonneberg)
 - [Thüringen](https://t.me/Freiheitsboten_Thueringen)
 - [Wartburgkreis](https://t.me/Freiheitsboten_Wartburgkreis)
+
+
 
 
 
