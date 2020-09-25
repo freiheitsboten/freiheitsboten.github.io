@@ -64,7 +64,7 @@ Falls du deine Region hier nicht findest, dann ergreife selbst Initiative. [Grü
 - [Rhein-Neckar-Kreis](https://t.me/Freiheitsboten_RNK_chat)
 - [Stuttgart](https://t.me/Stuttgart_in_Freiheit)
 - [Tübingen](https://t.me/Querdenken_7071)
-
+- [Überlingen](https://t.me/Freiheitsboten_Ueberlingen)
 
 ### Bayern
 - [Ansbach](https://t.me/joinchat/QOVEjBsl10GV4g4UeTaeyQ)
@@ -107,7 +107,6 @@ Falls du deine Region hier nicht findest, dann ergreife selbst Initiative. [Grü
 - [Frankfurt](https://t.me/c/1264448248/1264)
 - [Frankfurt](https://t.me/FreiheitsbotenFrankfurt)
 - [Gießen](https://t.me/Freiheitsboten_Giessen)
-- [Main Bingen](https://t.me/freiheitsboten_mainz_bingen)
 - [Marburg](https://t.me/freiheitsboten_marburg)
 - [Offenbach](https://t.me/Freiheitsboten_Offenbach_Kreis)
 - [Osthessen](https://t.me/freiheitsbotenosthessen)
@@ -142,6 +141,7 @@ Falls du deine Region hier nicht findest, dann ergreife selbst Initiative. [Grü
 - [Germsheim](https://t.me/Freiheitsboten_GermersheimSpeyer)
 - [Oberpfalz](https://t.me/joinchat/AAAAAEtqPAFoL8gVj2mkYw)
 - [Ludwigshafen](https://t.me/freiheitsbote_ludwigshafen)
+- [Mainz Bingen](https://t.me/freiheitsboten_mainz_bingen)
 - [Weinstraße](https://t.me/Friedensboten_SUEW)
 - [Worms](https://t.me/joinchat/RWwG-kinpjYF8r9ZNVozkw)
 
