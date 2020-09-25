@@ -43,9 +43,6 @@ Ist deine Gruppe noch nicht aufgeführt? Schicke bitte eine Nachricht mit Gruppe
 - Hier kannst Du [weitere Grafiken zum Ausdrucken herunterladen und Rohdateien finden](https://cloud.creative-services.info/s/G6DERKyrgAhRuUi)
 - Hier kannst Du alle Grafiken als [zip-Datei herunterladen](https://github.com/freiheitsboten/grafiken/archive/master.zip).
 
-
-
-
 ## Telegram Messenger
 Die Freiheitsboten vernetzen sich mit der [Telegram App](https://telegram.org/). Telegram ist sehr ähnlich zu WhatsApp. Zusätzlich ermöglicht es Gruppen zu organisieren. Du kannst Dir Telegram auf dem Smartphone oder Laptop installieren.
 
@@ -198,3 +195,26 @@ Falls du deine Region hier nicht findest, dann ergreife selbst Initiative. [Grü
 
 # Österreich
 - Wo sind die Österreicher ???
+
+
+
+# Unterstützung 
+
+Wenn Du die Freiheitsboten gerne unterstützen möchtest kannst Bodo Geld schenken. Max. 19.999 € in 10 Jahren.
+
+[Paypal](https://paypal.me/boschimo)
+
+
+oder
+
+
+
+> Dr. Bodo Schiffmann
+
+> IBAN: DE61 6635 0036 0017 5081 96
+
+> BIC: BRUSDE66XXX
+
+> Sparkasse Kraichgau
+
+covid-19@Schwindelambulanz-sinsheim.de
