@@ -92,6 +92,7 @@ Falls du deine Region hier nicht findest, dann ergreife selbst Initiative. [Grü
 - [Moers](https://t.me/friedensboten_Moers)
 - [Mönchengladbach](https://t.me/Freiheitsboten_MG)
 - [Münster](https://t.me/FreiheitsbotenMuenster)
+- [Münster](https://t.me/freiheitsboten_Muenster)
 - [Oberhausen](https://t.me/Freiheitsboten_Oberhausen_Rhld)
 - [Paderborn](https://t.me/Freiheitsboten_Paderborn)
 - [Siegen Wittgenstein](https://t.me/freiheitsbotensiegenwittgenstein)
@@ -112,7 +113,7 @@ Falls du deine Region hier nicht findest, dann ergreife selbst Initiative. [Grü
 
 
 ### Mecklenburg-Vorpommern
-- [Neubrandenburg](https://t.me/friedensbotenneubrandenburg)
+- [Neubrandenburg](https://t.me/freiheitsbotenneubrandenburg)
 - [Rostock](https://t.me/FreiheitsbotenRostockDBRUmgebung)
 - [Schwerin](https://t.me/Freiheitsboten_Schwerin)
 
