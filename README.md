@@ -113,6 +113,13 @@ Falls du deine Region hier nicht findest, dann ergreife selbst Initiative. [Grü
 - [Köllertal](https://t.me/Freiheitsboten_Köllertal)
 - [Saarland](https://t.me/Freiheitsboten_Saarland)
 - [Saarlouis](https://t.me/Freiheitsboten_Saarlouis)
+- [Saarpfalzkreis](https://t.me/Freiheitsboten_Saarpfalzkreis)
+- [Saarbrücken](https://t.me/Freiheitsboten_Saarbruecken)
+- [Völklingen](https://t.me/Freiheitsboten_Voelklingen)
+- [Neunkirchen](https://t.me/Freiheitsboten_Neunkirchen)
+- [Merzig](https://t.me/Freiheitsboten_Merzig)
+- [St. Wendel](https://t.me/FreiheitsbotenStWendel)
+
 
 ### Sachsen
 - [Dessau](https://t.me/Freiheitsboten_Dessau)
