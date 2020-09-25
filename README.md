@@ -39,7 +39,7 @@ Falls du deine Region hier nicht findest, dann ergreife selbst Initiative. [Grü
 - [Miesbach](https://t.me/FreiheitsbotenLkrsMb)
 - [Miltenberg](https://t.me/aktionmil)
 - [Nürnberg](https://t.me/freiheitsbote_nuernberg)
-- [Landsberg](https://t.me/Freiheitsboten_Landsberg)
+- [Landsberg am Lech](https://t.me/Freiheitsboten_Landsberg)
 - [Pfarrkirchen](https://t.me/FreiheitsbotenPfarrkirchen)
 - [Pfronten](https://t.me/Freiheitsboten_Pfronten_Umgebung)
 - [Regensburg](https://t.me/joinchat/Rd968BZkcixFSxUQwm_hIQ)
