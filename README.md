@@ -130,6 +130,7 @@ Falls du deine Region hier nicht findest, dann ergreife selbst Initiative. [Grü
 - [Celle](https://t.me/Freiheitsboten_Celle)
 - [Hannover](https://t.me/Freiheitsboten_Hannover)
 - [Hildesheim](https://t.me/freiheitsboten_hildesheim)
+- [Hameln-Pyrmont](https://t.me/Freiheitsboten_HM_Pyrmont)
 - [Göttingen](https://t.me/Freiheitsboten_Goettingen)
 - [Oldenburg](https://t.me/Freiheitsboten_Oldenburg441)
 - [Ostfriesland](https://t.me/https://t.me/querdenken494)
