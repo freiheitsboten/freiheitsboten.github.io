@@ -129,6 +129,7 @@ Falls du deine Region hier nicht findest, dann ergreife selbst Initiative. [Grü
 - [Hildesheim](https://t.me/freiheitsboten_hildesheim)
 - [Göttingen](https://t.me/Freiheitsboten_Goettingen)
 - [Oldenburg](https://t.me/Freiheitsboten_Oldenburg441)
+- [Ostfriesland](https://t.me/https://t.me/querdenken494)
 - [Lüneburg](https://t.me/Freiheitsbote_LG)
 - [Wedemark](https://t.me/freiheitsboten_wedemark)
 
