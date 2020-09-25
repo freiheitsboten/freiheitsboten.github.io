@@ -1,47 +1,8 @@
-# Dezentrale Freiheitsboten
+# Freiheitsboten
 
 Du möchtest Flugblätter, Infobriefe und Informationen in Deiner Gegend verteilen? [Komm in unsere Telegram-Gruppe und unterstütze und dabei](https://t.me/Freiheitsboten), Du findest regelmäßig neue professionelle Flugblätter und Infozettel für Deine Spaziergänge.
 
 Ist deine Gruppe noch nicht aufgeführt? Schicke bitte eine Nachricht mit [Gruppen-Link und Bundesland an Robin.](https://t.me/robin4242) 
-
-## Grafiken Herunterladen
-
-<a href="https://github.com/freiheitsboten/grafiken/tree/master/flyer1">
-	<img src="https://raw.githubusercontent.com/freiheitsboten/grafiken/master/flyer1/preview.png">
-</a>
-<a href="https://github.com/freiheitsboten/grafiken/tree/master/flyer2">
-	<img src="https://raw.githubusercontent.com/freiheitsboten/grafiken/master/flyer2/preview.png">
-</a>
-<a href="https://github.com/freiheitsboten/grafiken/tree/master/flyer3">
-	<img src="https://raw.githubusercontent.com/freiheitsboten/grafiken/master/flyer3/preview.png">
-</a>
-<a href="https://github.com/freiheitsboten/grafiken/tree/master/flyer4">
-	<img src="https://raw.githubusercontent.com/freiheitsboten/grafiken/master/flyer4/preview.png">
-</a>
-<a href="https://github.com/freiheitsboten/grafiken/tree/master/flyer5">
-	<img src="https://raw.githubusercontent.com/freiheitsboten/grafiken/master/flyer5/preview.png">
-</a>
-<a href="https://github.com/freiheitsboten/grafiken/tree/master/flyer6">
-	<img src="https://raw.githubusercontent.com/freiheitsboten/grafiken/master/flyer6/preview.png">
-</a>
-<a href="https://github.com/freiheitsboten/grafiken/tree/master/flyer7">
-	<img src="https://raw.githubusercontent.com/freiheitsboten/grafiken/master/flyer7/preview.png">
-</a>
-<a href="https://github.com/freiheitsboten/grafiken/tree/master/flyer8">
-	<img src="https://raw.githubusercontent.com/freiheitsboten/grafiken/master/flyer8/preview.png">
-</a>
-<a href="https://my.hidrive.com/share/cd1s2forr0#$/">
-	<img src="https://raw.githubusercontent.com/freiheitsboten/grafiken/master/flyer9/preview.png">
-</a>
-<a href="https://github.com/freiheitsboten/grafiken/tree/master/flyer10">
-	<img src="https://raw.githubusercontent.com/freiheitsboten/grafiken/master/flyer10/preview.png">
-</a>
-
-
-### Weitere Grafiken
-
-- Hier kannst Du [weitere Grafiken zum Ausdrucken herunterladen und Rohdateien finden](https://cloud.creative-services.info/s/G6DERKyrgAhRuUi)
-- Hier kannst Du alle Grafiken als [zip-Datei herunterladen](https://github.com/freiheitsboten/grafiken/archive/master.zip).
 
 ## Telegram Messenger
 Die Freiheitsboten vernetzen sich mit der [Telegram App](https://telegram.org/). Telegram ist sehr ähnlich zu WhatsApp. Zusätzlich ermöglicht es Gruppen zu organisieren. Du kannst Dir Telegram auf dem Smartphone oder Laptop installieren.
@@ -198,14 +159,53 @@ Falls du deine Region hier nicht findest, dann ergreife selbst Initiative. [Grü
 
 
 
-# Schweiz 🇨🇭
+## Schweiz 🇨🇭
 - [Bern](https://t.me/joinchat/KVZzYBzZu59IMhcQV6I8eg)
 - [Zürich](https://t.me/freiheitsbotenzuerich)
 - [Fribourg (Schweiz)](https://t.me/Freiheitsboten_Fribourg_Schweiz)
 
-# Österreich
+## Österreich
 - Wo sind die Österreicher ???
 
+
+# Grafiken Herunterladen
+
+<a href="https://github.com/freiheitsboten/grafiken/tree/master/flyer1">
+	<img src="https://raw.githubusercontent.com/freiheitsboten/grafiken/master/flyer1/preview.png">
+</a>
+<a href="https://github.com/freiheitsboten/grafiken/tree/master/flyer2">
+	<img src="https://raw.githubusercontent.com/freiheitsboten/grafiken/master/flyer2/preview.png">
+</a>
+<a href="https://github.com/freiheitsboten/grafiken/tree/master/flyer3">
+	<img src="https://raw.githubusercontent.com/freiheitsboten/grafiken/master/flyer3/preview.png">
+</a>
+<a href="https://github.com/freiheitsboten/grafiken/tree/master/flyer4">
+	<img src="https://raw.githubusercontent.com/freiheitsboten/grafiken/master/flyer4/preview.png">
+</a>
+<a href="https://github.com/freiheitsboten/grafiken/tree/master/flyer5">
+	<img src="https://raw.githubusercontent.com/freiheitsboten/grafiken/master/flyer5/preview.png">
+</a>
+<a href="https://github.com/freiheitsboten/grafiken/tree/master/flyer6">
+	<img src="https://raw.githubusercontent.com/freiheitsboten/grafiken/master/flyer6/preview.png">
+</a>
+<a href="https://github.com/freiheitsboten/grafiken/tree/master/flyer7">
+	<img src="https://raw.githubusercontent.com/freiheitsboten/grafiken/master/flyer7/preview.png">
+</a>
+<a href="https://github.com/freiheitsboten/grafiken/tree/master/flyer8">
+	<img src="https://raw.githubusercontent.com/freiheitsboten/grafiken/master/flyer8/preview.png">
+</a>
+<a href="https://my.hidrive.com/share/cd1s2forr0#$/">
+	<img src="https://raw.githubusercontent.com/freiheitsboten/grafiken/master/flyer9/preview.png">
+</a>
+<a href="https://github.com/freiheitsboten/grafiken/tree/master/flyer10">
+	<img src="https://raw.githubusercontent.com/freiheitsboten/grafiken/master/flyer10/preview.png">
+</a>
+
+
+### Weitere Grafiken
+
+- Hier kannst Du [weitere Grafiken zum Ausdrucken herunterladen und Rohdateien finden](https://cloud.creative-services.info/s/G6DERKyrgAhRuUi)
+- Hier kannst Du alle Grafiken als [zip-Datei herunterladen](https://github.com/freiheitsboten/grafiken/archive/master.zip).
 
 
 # Unterstützung 
@@ -220,8 +220,11 @@ oder
 
 
 > Dr. Bodo Schiffmann
+
 > IBAN: DE61 6635 0036 0017 5081 96
+
 > BIC: BRUSDE66XXX
+
 > Sparkasse Kraichgau
 
 covid-19@Schwindelambulanz-sinsheim.de
