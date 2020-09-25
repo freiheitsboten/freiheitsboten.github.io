@@ -150,7 +150,7 @@ Falls du deine Region hier nicht findest, dann ergreife selbst Initiative. [Grü
 - [Worms](https://t.me/joinchat/RWwG-kinpjYF8r9ZNVozkw)
 
 ### Saarland
-- [Köllertal](https://t.me/Freiheitsboten_Köllertal)
+- [Köllerbachtal](https://t.me/Freiheitsboten_Köllertal)
 - [Saarland](https://t.me/Freiheitsboten_Saarland)
 - [Saarlouis](https://t.me/Freiheitsboten_Saarlouis)
 - [Saarpfalzkreis](https://t.me/Freiheitsboten_Saarpfalzkreis)
