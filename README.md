@@ -141,7 +141,7 @@ Falls du deine Region hier nicht findest, dann ergreife selbst Initiative. [Grü
 
 ### Sachsen
 - [Leipzig](https://t.me/Freiheitsverteiler_Leipzig)
-
+- [Bautzen und Umland](https://t.me/joinchat/R9asMhnbB5xq2gVk_wloRw)
 
 ### Sachsen-Anhalt
 - [Dessau](https://t.me/Freiheitsboten_Dessau)
