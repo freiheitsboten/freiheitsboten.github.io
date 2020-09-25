@@ -217,6 +217,9 @@ Falls du deine Region hier nicht findest, dann ergreife selbst Initiative. [Grü
 <a href="https://github.com/freiheitsboten/grafiken/tree/master/flyer10">
 	<img src="https://raw.githubusercontent.com/freiheitsboten/grafiken/master/flyer10/preview.png">
 </a>
+<a href="https://github.com/freiheitsboten/grafiken/tree/master/flyer11">
+	<img src="https://raw.githubusercontent.com/freiheitsboten/grafiken/master/flyer11/preview.png">
+</a>
 
 
 ### Weitere Grafiken
