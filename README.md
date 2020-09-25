@@ -40,7 +40,7 @@ Falls du deine Region hier nicht findest, dann ergreife selbst Initiative. [Grü
 - [Kitzingen](https://t.me/Friedensboten_Kitzingen)
 - [Landshut](https://t.me/Freiheitsboten_Landshut)
 - [München](https://t.me/Freiheitsboten_München)
-- [Miesbach](https://t.me/FreiheitsboteBonnRheinSieg)
+- [Miesbach](https://t.me/FreiheitsbotenLkrsMb)
 - [Miltenberg](https://t.me/aktionmil)
 - [Nürnberg](https://t.me/freiheitsbote_nuernberg)
 - [Landsberg](https://t.me/Freiheitsboten_Landsberg)
@@ -48,6 +48,7 @@ Falls du deine Region hier nicht findest, dann ergreife selbst Initiative. [Grü
 - [Pfronten](https://t.me/Freiheitsboten_Pfronten_Umgebung)
 - [Regensburg](https://t.me/FreiheitsbotenRegensburg)
 - [Rosenheim](https://t.me/freiheitsboten_rosenheim)
+
 
 ### Berlin
 - [Berlin](https://t.me/Freiheitsboten_Berlin)
