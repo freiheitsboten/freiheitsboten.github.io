@@ -85,6 +85,7 @@ Falls du deine Region hier nicht findest, dann ergreife selbst Initiative. [Grü
 - [Regensburg-2](https://t.me/FreiheitsbotenRegensburg)
 - [Rosenheim](https://t.me/freiheitsboten_rosenheim)
 - [Schweinfurt](https://t.me/flyerbestellenschweinfurt)
+- [Straubing-Bogen](https://t.me/Freiheitsboten_Straubing)
 
 ### Berlin
 - [Berlin](https://t.me/Freiheitsboten_Berlin)
