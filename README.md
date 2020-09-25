@@ -39,6 +39,7 @@ Falls du deine Region hier nicht findest, dann ergreife selbst Initiative. [Grü
 - [Miesbach](https://t.me/FreiheitsbotenLkrsMb)
 - [Miltenberg](https://t.me/aktionmil)
 - [Nürnberg](https://t.me/freiheitsbote_nuernberg)
+- [Oberpfalz](https://t.me/joinchat/AAAAAEtqPAFoL8gVj2mkYw)
 - [Landsberg am Lech](https://t.me/Freiheitsboten_Landsberg)
 - [Pfarrkirchen](https://t.me/FreiheitsbotenPfarrkirchen)
 - [Pfronten](https://t.me/Freiheitsboten_Pfronten_Umgebung)
@@ -110,11 +111,10 @@ Falls du deine Region hier nicht findest, dann ergreife selbst Initiative. [Grü
 
 ### Rheinland Pfalz
 - [Eich](https://t.me/freiheitsboten_vgeich)
-- [Germsheim](https://t.me/Freiheitsboten_GermersheimSpeyer)
-- [Oberpfalz](https://t.me/joinchat/AAAAAEtqPAFoL8gVj2mkYw)
+- [Germersheim](https://t.me/Freiheitsboten_GermersheimSpeyer)
 - [Ludwigshafen](https://t.me/freiheitsbote_ludwigshafen)
 - [Kaiserslautern](https://t.me/Freiheitsboten_Kaiserslautern)
-- [Mainz Bingen](https://t.me/freiheitsboten_mainz_bingen)
+- [Mainz-Bingen](https://t.me/freiheitsboten_mainz_bingen)
 - [Weinstraße](https://t.me/Friedensboten_SUEW)
 - [Westerwald](https://t.me/freiheitsboten_Westerwald)
 - [Worms](https://t.me/joinchat/RWwG-kinpjYF8r9ZNVozkw)
