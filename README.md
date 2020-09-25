@@ -88,6 +88,7 @@ Falls du deine Region hier nicht findest, dann ergreife selbst Initiative. [Grü
 - [Lippstadt](https://t.me/Freiheitsboten_Lippstadt)
 - [Moers](https://t.me/friedensboten_Moers)
 - [Mönchengladbach](https://t.me/Freiheitsboten_MG)
+- [Münster](https://t.me/FreiheitsbotenMuenster)
 - [Oberhausen](https://t.me/Freiheitsboten_Oberhausen_Rhld)
 - [Paderborn](https://t.me/Freiheitsboten_Paderborn)
 - [Siegen Wittgenstein](https://t.me/freiheitsbotensiegenwittgenstein)
