@@ -144,6 +144,7 @@ Falls du deine Region hier nicht findest, dann ergreife selbst Initiative. [Grü
 - [Dessau](https://t.me/Freiheitsboten_Dessau)
 - [Halle](https://t.me/Freiheitsboten_Halle)
 - [Tangerhütte](https://t.me/kim39517)
+- [Gardelegen](https://t.me/Freiheitsboten_Gardelegen)
 
 ### Schleswig-Holstein
 - [Flensburg](https://t.me/FreiheitsbotenOstsee_FL_bis_Kiel)
