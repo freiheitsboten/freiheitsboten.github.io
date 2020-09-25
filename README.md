@@ -14,7 +14,7 @@ Falls du deine Region hier nicht findest, dann ergreife selbst Initiative. [Grü
 
 ## Deutschland 🇩🇪
 
-### Baden-Württenberg
+### Baden-Württemberg
 - [Bonndorf](https://t.me/Freiheitsboten_Bonndorf)
 - [Esslingen am Neckar](https://t.me/Freiheitsboten_LKR_Esslingen_N)
 - [Freiburg](https://t.me/Freiheitsboten_Freiburg)
