@@ -189,6 +189,7 @@ Falls du deine Region hier nicht findest, dann ergreife selbst Initiative. [Grü
 - [Eichsfeld](https://t.me/Freiheitsboten_Eichsfeld)
 - [Erfurt](https://t.me/Freiheitsboten_Erfurt)
 - [Gotha](https://t.me/Freiheitsboten_LandkreisGotha)
+- [Holzland](https://t.me/Freiheitsboten_Holzland)
 - [Jena](https://t.me/freiheitsboten_jena)
 - [Südthüringen](https://t.me/Freiheitsboten_Suedthueringen)
 - [Sonneberg](https://t.me/Freiheitsboten_Sonneberg)
