@@ -1,6 +1,6 @@
 # Dezentrale Freiheitsboten
 
-Du möchtest Flugblätter, Infobriefe und Informationen in Deiner Gegend verteilen, [komm in unsere Gruppe und unterstütze und dabei](https://t.me/Freiheitsboten), Du findest regelmäßig neue professionelle Flugblätter und Infozettel für Deine Spaziergänge.
+Du möchtest Flugblätter, Infobriefe und Informationen in Deiner Gegend verteilen? [Komm in unsere Gruppe und unterstütze und dabei](https://t.me/Freiheitsboten), Du findest regelmäßig neue professionelle Flugblätter und Infozettel für Deine Spaziergänge.
 
 
 ## Grafiken Herunterladen
