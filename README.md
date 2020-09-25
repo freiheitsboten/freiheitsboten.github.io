@@ -193,6 +193,7 @@ Falls du deine Region hier nicht findest, dann ergreife selbst Initiative. [Grü
 # Schweiz 🇨🇭
 - [Bern](https://t.me/joinchat/KVZzYBzZu59IMhcQV6I8eg)
 - [Zürich](https://t.me/freiheitsbotenzuerich)
+- [Fribourg (Schweiz)](https://t.me/Freiheitsboten_Fribourg_Schweiz)
 
 # Österreich
 - Wo sind die Österreicher ???
