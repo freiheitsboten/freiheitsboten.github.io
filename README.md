@@ -2,7 +2,7 @@
 
 Du möchtest Flugblätter, Infobriefe und Informationen in Deiner Gegend verteilen? [Komm in unsere Telegram-Gruppe und unterstütze und dabei](https://t.me/Freiheitsboten), Du findest regelmäßig neue professionelle Flugblätter und Infozettel für Deine Spaziergänge.
 
-Ist deine Gruppe noch nicht aufgeführt? Schicke bitte eine Nachricht mit Gruppen-Link und Bundesland [an Robin schicken.](https://t.me/robin4242) 
+Ist deine Gruppe noch nicht aufgeführt? Schicke bitte eine Nachricht mit [Gruppen-Link und Bundesland an Robin.](https://t.me/robin4242) 
 
 ## Grafiken Herunterladen
 
