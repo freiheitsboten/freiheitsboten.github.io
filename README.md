@@ -120,6 +120,7 @@ Ist deine Ortsgruppe noch nicht aufgeführt? Schicke bitte eine Nachricht mit [G
 
 
 ### Niedersachsen
+- [Barsinghausen](https://t.me/freiheitsboten_Barsinghausen)
 - [Braunschweig](https://t.me/Freiheitsboten_BS)
 - [Celle](https://t.me/Freiheitsboten_Celle)
 - [Cuxhaven Wurster Nordseeküste](https://t.me/joinchat/AAAAAE9VePDo6yCerEJ85w)
