@@ -270,19 +270,21 @@ Möchtest Du mithelfen? Trete einer Orga-Gruppe bei:
 
 Wenn Du die Freiheitsboten gerne unterstützen möchtest kannst Du Bodo Geld schenken. Max. 19.999 € in 10 Jahren.
 
-[Paypal](https://paypal.me/boschimo)
+[Geld mit Paypal senden](https://paypal.me/boschimo)
 
 
 oder
 
 
 
-> Dr. Bodo Schiffmann
+Dr. Bodo Schiffmann
 
-> IBAN: DE61 6635 0036 0017 5081 96
+IBAN: DE61 6635 0036 0017 5081 96
 
-> BIC: BRUSDE66XXX
+BIC: BRUSDE66XXX
 
-> Sparkasse Kraichgau
+Sparkasse Kraichgau
 
-covid-19@Schwindelambulanz-sinsheim.de
+-------------------
+
+Email: covid-19@Schwindelambulanz-sinsheim.de
