@@ -32,6 +32,7 @@ Falls du deine Region hier nicht findest, dann ergreife selbst Initiative. Grün
 - [Karlsruhe](https://t.me/Freiheitsboten_Karlsruhe)
 - [Ortenau](https://t.me/Freiheitsboten_Ortenau)
 - [Ravensburg](https://t.me/Freiheitsboten_RV)
+- [Remstal](https://t.me/freiheitsdrucker_remstal)
 - [Rhein-Neckar-Kreis](https://t.me/Freiheitsboten_RNK_chat)
 - [Stuttgart](https://t.me/Stuttgart_in_Freiheit)
 - [Titisee-Neustadt](https://t.me/FreiheitsbotenTitiseeNeustadt)
