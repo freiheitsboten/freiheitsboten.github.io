@@ -102,6 +102,7 @@ Ist deine Gruppe noch nicht aufgeführt? Schicke bitte eine Nachricht mit [Grupp
 
 ### NRW
 - [Bonn](https://t.me/FreiheitsboteBonnRheinSieg)
+- [Bochum](https://t.me/aufklaerungfuerbochum)
 - [Dortmund](https://t.me/freiheitsboteDortmund)
 - [Dülmen](https://t.me/freiheitsboten_duelmen)
 - [Hagen](https://t.me/Freiheitsboten_Hagen_NRW)
