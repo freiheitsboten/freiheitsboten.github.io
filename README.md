@@ -4,6 +4,7 @@ Du möchtest Flugblätter, Infobriefe und Informationen in Deiner Gegend verteil
 
 
 Bitte habt Verständnis, dass unsere Flyer-Logistik noch nicht ausgereift ist. Wir arbeiten mit Hochdruck daran alle Gruppen mit Flyern zu versorgen.
+Innerhalb der nächsten Woche werden wir die Struktur deutlich verbessern.
 
 ## Was? Wer? Wie? Wo? Wann?
 [Hier findest du Antworten auf häufig gestellte Fragen.](/faq)
