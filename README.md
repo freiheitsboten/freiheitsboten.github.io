@@ -108,6 +108,7 @@ Ist deine Ortsgruppe noch nicht aufgeführt? Schicke bitte eine Nachricht mit [G
 - [Leverkusen](https://t.me/freiheitsboten_leverkusen)
 - [Moers](https://t.me/friedensboten_Moers)
 - [Mönchengladbach](https://t.me/Freiheitsboten_MG)
+- [Mühlheim](https://t.me/freiheitsboten_muelheim)
 - [Münster](https://t.me/FreiheitsbotenMuenster)
 - [Münster und das Münsterland](https://t.me/freiheitsboten_Muenster)
 - [Oberhausen](https://t.me/Freiheitsboten_Oberhausen_Rhld)
