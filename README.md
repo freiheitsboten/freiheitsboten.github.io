@@ -48,6 +48,7 @@ Falls du deine Region hier nicht findest, dann ergreife selbst Initiative. Grün
 - [Augsburg](https://t.me/Freiheitsboten_Augsburg)
 - [Bamberg](https://t.me/Freiheitsbote_Bamberg)
 - [Cham](https://t.me/Freiheitsboten_Cham)
+- [Coburg](https://t.me/Freiheitsboten_Coburg)
 - [Erding](https://t.me/freiheitsboten_erding)
 - [Günzburg Dillingen](https://t.me/freigzdil)
 - [Kitzingen](https://t.me/Friedensboten_Kitzingen)
