@@ -11,7 +11,7 @@ Bitte habt Verständnis, dass unsere Flyer-Logistik noch nicht ausgereift ist. W
 # Freiheitsboten Ortsgruppen 
 Die Ortsgruppen der [Freiheitsboten](https://t.me/Freiheitsboten) in Deutschland und der Schweiz. 
 
-Falls du deine Region hier nicht findest, dann ergreife selbst Initiative. Vernetz dich mit den anderen Gruppen in deiner Umgebung. Gründe eine eigene Ortsgruppe. Untereinander austauschen und voneinander lernen!
+Falls du deine Region hier nicht findest, dann ergreife selbst Initiative. Vernetz dich mit den anderen Gruppen in deiner Umgebung. [Gründe eine eigene Ortsgruppe](https://freiheitsboten.github.io/faq#wie-gr%C3%BCnde-ich-eine-ortsgruppe). Untereinander austauschen und voneinander lernen!
 
 Ist deine Ortsgruppe noch nicht aufgeführt? Schicke bitte eine Nachricht mit [Gruppen-Link und Bundesland an Robin.](https://t.me/robin4242) 
 
