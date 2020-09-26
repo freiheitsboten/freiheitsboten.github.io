@@ -98,6 +98,7 @@ Ist deine Ortsgruppe noch nicht aufgeführt? Schicke bitte eine Nachricht mit [G
 - [Kreis Bergstraße](https://t.me/freiheitsboten_kreis_bergstrasse)
 - [Marburg](https://t.me/freiheitsboten_marburg)
 - [Main-Taunus-Kreis](https://t.me/Freiheitsboten_MTK)
+- [Langen](https://t.me/LangenHessen)
 - [Offenbach](https://t.me/Freiheitsboten_Offenbach_Kreis)
 - [Osthessen](https://t.me/freiheitsbotenosthessen)
 
