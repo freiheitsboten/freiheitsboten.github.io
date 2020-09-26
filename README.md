@@ -197,6 +197,7 @@ Ist deine Ortsgruppe noch nicht aufgeführt? Schicke bitte eine Nachricht mit [G
 - [Ilmenau](https://t.me/Freiheitsboten_Ilmenau)
 - [Jena](https://t.me/freiheitsboten_jena)
 - [Saalfeld-Rudolstadt](https://t.me/FreiheitsbotenSlfRu)
+- [Suhl](https://t.me/Freiheitsboten_Suhl)
 - [Südthüringen](https://t.me/Freiheitsboten_Suedthueringen)
 - [Sonneberg](https://t.me/Freiheitsboten_Sonneberg)
 - [Thüringen](https://t.me/Freiheitsboten_Thueringen)
