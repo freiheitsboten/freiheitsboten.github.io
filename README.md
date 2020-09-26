@@ -41,7 +41,8 @@ Ist deine Gruppe noch nicht aufgeführt? Schicke bitte eine Nachricht mit [Grupp
 - [Zollernalbkreis](https://t.me/Freiheitsboten_Zollernalbkreis)
 
 ### Bayern
-- [Altmühltal](t.me/Freiheitboten_Altmuehltal)
+- [Altmühltal](https://t.me/Freiheitboten_Altmuehltal)
+- [Ammersee](https://t.me/freiheitsbotenammersee)
 - [Ansbach](https://t.me/joinchat/QOVEjBsl10GV4g4UeTaeyQ)
 - [Aschaffenburg](https://T.me/freiheitsboten_aschaffenburg)
 - [Augsburg](https://t.me/Freiheitsboten_Augsburg)
