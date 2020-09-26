@@ -1,6 +1,6 @@
 # Freiheitsboten
 
-Du möchtest Flugblätter, Infobriefe und Informationen in Deiner Gegend verteilen? [Komm in unsere Telegram-Gruppe und unterstütze und dabei](https://t.me/Freiheitsboten), Du findest regelmäßig neue professionelle Flugblätter und Infozettel für Deine Spaziergänge. 
+Du möchtest Flugblätter, Infobriefe und Informationen in Deiner Gegend verteilen? [Komm in unsere Telegram-Gruppe und unterstütze uns dabei](https://t.me/Freiheitsboten), Du findest regelmäßig neue professionelle Flugblätter und Infozettel für Deine Spaziergänge. 
 
 
 Bitte habt Verständnis, dass unsere Flyer-Logistik noch nicht ausgereift ist. Wir arbeiten mit Hochdruck daran alle Gruppen mit Flyern zu versorgen.
