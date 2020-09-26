@@ -130,7 +130,8 @@ Ist deine Gruppe noch nicht aufgeführt? Schicke bitte eine Nachricht mit [Grupp
 - [Lüneburg](https://t.me/Freiheitsbote_LG)
 - [Oldenburg](https://t.me/Freiheitsboten_Oldenburg441)
 - [Ostfriesland](https://t.me/Freiheitsboten_Ostfriesland)
-- [Schaumburg](https://t.me/Freiheitsboten_Schaumburg)
+- [Schaumburg](https://t.me/freiheitsbotenschaumburgchat)
+- [Schaumburg-2](https://t.me/Freiheitsboten_Schaumburg)
 - [Wedemark](https://t.me/freiheitsboten_wedemark)
 - [Walsrode](https://t.me/freiheitsboten_walsrode)
 
