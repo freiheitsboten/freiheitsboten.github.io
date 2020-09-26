@@ -207,11 +207,13 @@ Ist deine Gruppe noch nicht aufgeführt? Schicke bitte eine Nachricht mit [Grupp
 
 
 ## Schweiz 🇨🇭
-- [Bern](https://t.me/joinchat/KVZzYBzZu59IMhcQV6I8eg)
-- [Kanton Basel-Stadt / Basel-Landschaft](https://t.me/freiheitsboten_bs_bl)
+- [Basel-Stadt / Basel-Landschaft](https://t.me/freiheitsboten_bs_bl)
+- [Bern](https://t.me/Freiheitsboten_Bern)
+- [Fribourg (Schweiz)](https://t.me/Freiheitsboten_Fribourg_Schweiz)
+- [Solothurn](https://t.me/Freiheitsboten_Solothurn)
+- [Thurgau](https://t.me/Freiheitsboten_Thurgau)
 - [Luzern](https://t.me/freiheitsbotenluzern)
 - [Zürich](https://t.me/freiheitsbotenzuerich)
-- [Fribourg (Schweiz)](https://t.me/Freiheitsboten_Fribourg_Schweiz)
 
 ## Österreich
 - [Österreich](https://t.me/freiheitsbotenoesterreichchat)
