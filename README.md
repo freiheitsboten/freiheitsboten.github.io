@@ -110,6 +110,7 @@ Ist deine Gruppe noch nicht aufgeführt? Schicke bitte eine Nachricht mit [Grupp
 - [Gütersloh](https://t.me/Freiheitsboten_Kreis_Guetersloh )
 - [Köln](https://t.me/Freiheitsboten_Koeln)
 - [Lippstadt](https://t.me/Freiheitsboten_Lippstadt)
+- [Leverkusen](https://t.me/freiheitsboten_leverkusen)
 - [Moers](https://t.me/friedensboten_Moers)
 - [Mönchengladbach](https://t.me/Freiheitsboten_MG)
 - [Münster](https://t.me/FreiheitsbotenMuenster)
