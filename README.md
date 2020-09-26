@@ -27,6 +27,7 @@ Falls du deine Region hier nicht findest, dann ergreife selbst Initiative. Grün
 - [Landkreis Esslingen am Neckar](https://t.me/Freiheitsboten_LKR_Esslingen_N)
 - [Freiburg](https://t.me/Freiheitsboten_Freiburg)
 - [Hechingen](https://t.me/Freiheitsbote_Hechingen)
+- [Hegau](https://t.me/freiheitsdruck)
 - [Heidenheim](https://t.me/Hoidna)
 - [Heidenheim-2](https://t.me/FreiheitsbotenHDH)
 - [Karlsruhe](https://t.me/Freiheitsboten_Karlsruhe)
