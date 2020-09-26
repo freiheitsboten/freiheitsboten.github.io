@@ -128,7 +128,7 @@ Falls du deine Region hier nicht findest, dann ergreife selbst Initiative. Grün
 - [Ostfriesland](https://t.me/Freiheitsboten_Ostfriesland)
 - [Schaumburg](https://t.me/Freiheitsboten_Schaumburg)
 - [Wedemark](https://t.me/freiheitsboten_wedemark)
-
+- [Walsrode](https://t.me/freiheitsboten_walsrode)
 
 ### Mecklenburg-Vorpommern
 - [Neubrandenburg](https://t.me/freiheitsbotenneubrandenburg)
