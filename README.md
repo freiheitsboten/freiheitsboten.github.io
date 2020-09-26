@@ -5,20 +5,15 @@ Du möchtest Flugblätter, Infobriefe und Informationen in Deiner Gegend verteil
 
 Bitte habt Verständnis, dass unsere Flyer-Logistik noch nicht ausgereift ist. Wir arbeiten mit Hochdruck daran alle Gruppen mit Flyern zu versorgen.
 
-## Telegram Messenger
-Die Freiheitsboten vernetzen sich mit der [Telegram App](https://telegram.org/). Telegram ist sehr ähnlich zu WhatsApp. Zusätzlich ermöglicht es sich in Gruppen zu organisieren. Du kannst Dir Telegram auf dem Smartphone oder Laptop installieren.
+## Was? Wer? Wie? Wo? Wann?
+[Hier findest du Antworten auf häufig gestellte Fragen.](/faq)
 
 # Freiheitsboten Ortsgruppen 
-Eine Liste der Ortsgruppen der [Freiheitsboten Telegram Gruppe](https://t.me/Freiheitsboten) in Deutschland und der Schweiz. 
-Falls du deine Region hier nicht findest, dann ergreife selbst Initiative. Gründe eine Gruppe und vernetz dich mit den anderen Gruppen in deiner Umgebung. Untereinander austauschen und voneinander lernen!
+Die Ortsgruppen der [Freiheitsboten](https://t.me/Freiheitsboten) in Deutschland und der Schweiz. 
 
-Ist deine Gruppe noch nicht aufgeführt? Schicke bitte eine Nachricht mit [Gruppen-Link und Bundesland an Robin.](https://t.me/robin4242) 
+Falls du deine Region hier nicht findest, dann ergreife selbst Initiative. Vernetz dich mit den anderen Gruppen in deiner Umgebung. Gründe eine eigene Ortsgruppe. Untereinander austauschen und voneinander lernen!
 
-## Nützliche Links
-- [Anleitung zum Gründen einer Gruppe](https://telegram.org/faq/de?ln=f#f-wie-kann-ich-eine-gruppe-erstellen)
-	- Nicht vergessen: Deine Gruppe muss *öffentlich* sein, damit du einen Link erstellen kannst.
-- [Hier findest du Tipps zum Flyer-Verteilen](tipps-beim-flyern).
-
+Ist deine Ortsgruppe noch nicht aufgeführt? Schicke bitte eine Nachricht mit [Gruppen-Link und Bundesland an Robin.](https://t.me/robin4242) 
 
 ## Deutschland 🇩🇪
 ### Baden-Württemberg
