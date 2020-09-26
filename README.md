@@ -72,6 +72,7 @@ Ist deine Ortsgruppe noch nicht aufgeführt? Schicke bitte eine Nachricht mit [G
 ### Brandenburg
 - [Königs Wusterhausen](https://t.me/Freiheitsboten_Königs_Wusterhausen)
 - [Potsdam](https://t.me/Freiheitsboten_Potsdam)
+- [Prignitz](https://t.me/Freiheitsboten_Prignitz)
 - [Senftenberg](https://t.me/Freiheitsboten_Senftenberg)
 - [Spreewald](https://t.me/Freiheitboten_Spreewald)
 
