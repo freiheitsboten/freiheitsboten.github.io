@@ -132,6 +132,7 @@ Ist deine Ortsgruppe noch nicht aufgeführt? Schicke bitte eine Nachricht mit [G
 - [Ostfriesland](https://t.me/Freiheitsboten_Ostfriesland)
 - [Schaumburg](https://t.me/freiheitsbotenschaumburgchat)
 - [Schaumburg-2](https://t.me/Freiheitsboten_Schaumburg)
+- [Südheide](https://t.me/Freiheitsboten_Suedheide)
 - [Wedemark](https://t.me/freiheitsboten_wedemark)
 - [Walsrode](https://t.me/freiheitsboten_walsrode)
 
