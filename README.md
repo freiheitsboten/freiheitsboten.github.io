@@ -60,6 +60,7 @@ Ist deine Gruppe noch nicht aufgeführt? Schicke bitte eine Nachricht mit [Grupp
 - [Nürnberg](https://t.me/freiheitsbote_nuernberg)
 - [Oberpfalz](https://t.me/joinchat/AAAAAEtqPAFoL8gVj2mkYw)
 - [Landsberg am Lech](https://t.me/Freiheitsboten_Landsberg)
+- [Passau](https://t.me/Freiheitsboten_Schaumburg)
 - [Pfarrkirchen](https://t.me/FreiheitsbotenPfarrkirchen)
 - [Pfronten](https://t.me/Freiheitsboten_Pfronten_Umgebung)
 - [Regensburg](https://t.me/Freiheitsboten_Regensburg)
