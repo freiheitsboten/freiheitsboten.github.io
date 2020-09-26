@@ -76,6 +76,8 @@ Falls du deine Region hier nicht findest, dann ergreife selbst Initiative. [Grü
 - [Frankfurt](https://t.me/c/1264448248/1264)
 - [Frankfurt](https://t.me/FreiheitsbotenFrankfurt)
 - [Gießen](https://t.me/Freiheitsboten_Giessen)
+- [Hanau](https://t.me/freiheitsboten_hanau)
+- [Kreis Bergstraße](https://t.me/freiheitsboten_kreis_bergstrasse)
 - [Marburg](https://t.me/freiheitsboten_marburg)
 - [Main-Taunus-Kreis](https://t.me/Freiheitsboten_MTK)
 - [Offenbach](https://t.me/Freiheitsboten_Offenbach_Kreis)
@@ -84,6 +86,7 @@ Falls du deine Region hier nicht findest, dann ergreife selbst Initiative. [Grü
 ### NRW
 - [Bonn](https://t.me/FreiheitsboteBonnRheinSieg)
 - [Dortmund](https://t.me/freiheitsboteDortmund)
+- [Dülmen](https://t.me/freiheitsboten_duelmen)
 - [Hagen](https://t.me/Freiheitsboten_Hagen_NRW)
 - [Gelsenkirchen](https://t.me/Freiheitsboten_Gelsenkirchen)
 - [Gütersloh](https://t.me/Freiheitsboten_Kreis_Guetersloh )
@@ -122,6 +125,7 @@ Falls du deine Region hier nicht findest, dann ergreife selbst Initiative. [Grü
 - [Eich](https://t.me/freiheitsboten_vgeich)
 - [Frankenthal](https://t.me/Freiheitsboten_FT)
 - [Germersheim](https://t.me/Freiheitsboten_GermersheimSpeyer)
+- [Koblenz](https://t.me/freiheitsboten_koblenz)
 - [Ludwigshafen](https://t.me/freiheitsbote_ludwigshafen)
 - [Kaiserslautern](https://t.me/Freiheitsboten_Kaiserslautern)
 - [Mainz-Bingen](https://t.me/freiheitsboten_mainz_bingen)
@@ -153,6 +157,7 @@ Falls du deine Region hier nicht findest, dann ergreife selbst Initiative. [Grü
 - [Gardelegen](https://t.me/Freiheitsboten_Gardelegen)
 
 ### Schleswig-Holstein
+- [Itzehoe](https://t.me/Freiheitsboten_Itzehoe)
 - [Flensburg](https://t.me/FreiheitsbotenOstsee_FL_bis_Kiel)
 - [Kiel](https://t.me/Freiheitsboten_Kiel)
 - [Lübeck](https://t.me/Freiheitsboten_Luebeck)
@@ -182,6 +187,7 @@ Falls du deine Region hier nicht findest, dann ergreife selbst Initiative. [Grü
 
 ## Schweiz 🇨🇭
 - [Bern](https://t.me/joinchat/KVZzYBzZu59IMhcQV6I8eg)
+- [Kanton Basel-Stadt / Basel-Landschaft](https://t.me/freiheitsboten_bs_bl)
 - [Zürich](https://t.me/freiheitsbotenzuerich)
 - [Fribourg (Schweiz)](https://t.me/Freiheitsboten_Fribourg_Schweiz)
 
