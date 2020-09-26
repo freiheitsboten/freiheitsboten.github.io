@@ -31,6 +31,7 @@ Ist deine Ortsgruppe noch nicht aufgeführt? Schicke bitte eine Nachricht mit [G
 - [Ravensburg](https://t.me/Freiheitsboten_RV)
 - [Remstal](https://t.me/freiheitsdrucker_remstal)
 - [Rhein-Neckar-Kreis](https://t.me/Freiheitsboten_RNK_chat)
+- [Geislingen an der Steige](https://t.me/Freiheitsboten_GeislingenSteige)
 - [Stuttgart](https://t.me/Stuttgart_in_Freiheit)
 - [Titisee-Neustadt](https://t.me/FreiheitsbotenTitiseeNeustadt)
 - [Tübingen](https://t.me/Querdenken_7071)
