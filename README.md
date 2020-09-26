@@ -114,9 +114,10 @@ Falls du deine Region hier nicht findest, dann ergreife selbst Initiative. [Grü
 - [Hildesheim](https://t.me/freiheitsboten_hildesheim)
 - [Hameln-Pyrmont](https://t.me/Freiheitsboten_HM_Pyrmont)
 - [Göttingen](https://t.me/Freiheitsboten_Goettingen)
+- [Lüneburg](https://t.me/Freiheitsbote_LG)
 - [Oldenburg](https://t.me/Freiheitsboten_Oldenburg441)
 - [Ostfriesland](https://t.me/Freiheitsboten_Ostfriesland)
-- [Lüneburg](https://t.me/Freiheitsbote_LG)
+- [Schaumburg](https://t.me/Freiheitsboten_Schaumburg)
 - [Wedemark](https://t.me/freiheitsboten_wedemark)
 
 
