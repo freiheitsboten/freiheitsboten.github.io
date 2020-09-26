@@ -34,6 +34,7 @@ Falls du deine Region hier nicht findest, dann ergreife selbst Initiative. Grün
 - [Ravensburg](https://t.me/Freiheitsboten_RV)
 - [Rhein-Neckar-Kreis](https://t.me/Freiheitsboten_RNK_chat)
 - [Stuttgart](https://t.me/Stuttgart_in_Freiheit)
+- [Titisee-Neustadt](https://t.me/FreiheitsbotenTitiseeNeustadt)
 - [Tübingen](https://t.me/Querdenken_7071)
 - [Überlingen](https://t.me/Freiheitsboten_Ueberlingen)
 - [Zollernalbkreis](https://t.me/Freiheitsboten_Zollernalbkreis)
