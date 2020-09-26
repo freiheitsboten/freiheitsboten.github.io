@@ -9,13 +9,13 @@ Die Freiheitsboten vernetzen sich mit der [Telegram App](https://telegram.org/).
 
 # Freiheitsboten Ortsgruppen 
 Eine Liste der Ortsgruppen der [Freiheitsboten Telegram Gruppe](https://t.me/Freiheitsboten) in Deutschland und der Schweiz. 
-Falls du deine Region hier nicht findest, dann ergreife selbst Initiative. [Gründe eine Gruppe](https://telegram.org/faq/de?ln=f#f-wie-kann-ich-eine-gruppe-erstellen) und vernetz dich mit den anderen Gruppen in deiner Umgebung. Untereinander austauschen und voneinander lernen!
+Falls du deine Region hier nicht findest, dann ergreife selbst Initiative. Gründe eine Gruppe und vernetz dich mit den anderen Gruppen in deiner Umgebung. Untereinander austauschen und voneinander lernen!
 
-
-[Hier findest du Tipps zum Flyer-Verteilen](tipps-beim-flyern).
+## Nützliche Links
+- [Anleitung zum Gründen einer Gruppe](https://telegram.org/faq/de?ln=f#f-wie-kann-ich-eine-gruppe-erstellen)
+- [Hier findest du Tipps zum Flyer-Verteilen](tipps-beim-flyern).
 
 ## Deutschland 🇩🇪
-
 ### Baden-Württemberg
 - [Bonndorf](https://t.me/Freiheitsboten_Bonndorf)
 - [Calw Heimsheim](https://t.me/Freiheitsboten_Calw_Heimsheim)
@@ -34,6 +34,7 @@ Falls du deine Region hier nicht findest, dann ergreife selbst Initiative. [Grü
 - [Zollernalbkreis](https://t.me/Freiheitsboten_Zollernalbkreis)
 
 ### Bayern
+- [Altmühltal](t.me/Freiheitboten_Altmuehltal)
 - [Ansbach](https://t.me/joinchat/QOVEjBsl10GV4g4UeTaeyQ)
 - [Aschaffenburg](https://T.me/freiheitsboten_aschaffenburg)
 - [Augsburg](https://t.me/Freiheitsboten_Augsburg)
