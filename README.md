@@ -3,7 +3,7 @@
 Du möchtest Flugblätter, Infobriefe und Informationen in Deiner Gegend verteilen? [Komm in unsere Telegram-Gruppe und unterstütze uns dabei](https://t.me/Freiheitsboten), Du findest regelmäßig neue professionelle Flugblätter und Infozettel für Deine Spaziergänge. 
 
 
-Bitte habt Verständnis, dass unsere Flyer-Logistik noch nicht ausgereift ist. Wir drucken derzeit eine Auflage von 1'000'000 Flugblätter. 
+Bitte habt Verständnis, dass unsere Flyer-Logistik noch nicht ausgereift ist. Wir drucken derzeit eine Auflage von 1'000'000 Flugblättern. 
 Wir arbeiten mit Hochdruck daran alle Gruppen mit Flyern zu versorgen. Innerhalb der nächsten Woche werden wir die Struktur weiter ausbauen.
 
 ## Was? Wer? Wie? Wo? Wann?
