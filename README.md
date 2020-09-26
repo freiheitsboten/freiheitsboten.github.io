@@ -210,7 +210,7 @@ Ist deine Ortsgruppe noch nicht aufgeführt? Schicke bitte eine Nachricht mit [G
 
 
 ## Schweiz 🇨🇭
-- [Basel-Stadt / Basel-Landschaft](https://t.me/freiheitsboten_bs_bl)
+- [Basel-Stadt / Basel-Landschaft](https://t.me/freiheitsbotenchat_bs_bl)
 - [Bern](https://t.me/Freiheitsboten_Bern)
 - [Fribourg (Schweiz)](https://t.me/Freiheitsboten_Fribourg_Schweiz)
 - [Solothurn](https://t.me/Freiheitsboten_Solothurn)
