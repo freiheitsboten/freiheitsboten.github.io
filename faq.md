@@ -12,7 +12,7 @@ Die Freiheitsboten vernetzen sich mit der [Telegram App](https://telegram.org/).
 
 ### Was mache ich, nachdem ich eine Gruppe gegründet habe?
 - Mache dich bekannt mit den anderen Gruppen in deiner Umgebung. Lerne deren Gruppen-Admin kennen und tausche dich aus. 
-- Wende dich an [Marie](https://t.me/Mariechen1406), [Ralf](https://t.me/RalfHeesen) oder [Robin](https://t.me/robin4242), um dich vorzustellen.
+- Wende dich an [Marie](https://t.me/Mariechen1406), [Ralf](https://t.me/RalfHeesen), [Lila](@LilaHeesen) oder [Robin](https://t.me/robin4242), um dich vorzustellen.
 - Dann wirst du als Ortsgruppen-Admin in die Gruppe Freiheitscenter aufgenommen. Dort erhältst du Infos zur Bestellung von Flyern.
 
 
