@@ -76,6 +76,7 @@ Ist deine Ortsgruppe noch nicht aufgeführt? Schicke bitte eine Nachricht mit [G
 - [Prignitz](https://t.me/Freiheitsboten_Prignitz)
 - [Senftenberg](https://t.me/Freiheitsboten_Senftenberg)
 - [Spreewald](https://t.me/Freiheitboten_Spreewald)
+- [Landkreis Oder Spree](https://t.me/Freiheitsboten_LOS)
 
 ### Bremen
 - [Bremen](https://t.me/Freiheitsboten_Bremen)
