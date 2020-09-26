@@ -127,7 +127,7 @@ Falls du deine Region hier nicht findest, dann ergreife selbst Initiative. [Grü
 
 
 ### Rheinland Pfalz
-- [Aareinrich](https://t.me/freiheitsbotenaareinrich)
+- [Aar-Einrich](https://t.me/freiheitsbotenaareinrich)
 - [Eich](https://t.me/freiheitsboten_vgeich)
 - [Frankenthal](https://t.me/Freiheitsboten_FT)
 - [Germersheim](https://t.me/Freiheitsboten_GermersheimSpeyer)
