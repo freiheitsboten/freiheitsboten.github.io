@@ -217,7 +217,7 @@ Ist deine Gruppe noch nicht aufgeführt? Schicke bitte eine Nachricht mit [Grupp
 
 Möchtest Du mithelfen? Trete einer Orga-Gruppe bei:
 
-- Designer und Grafiker [Schicke eine kurze formlose Bewerbung an Robin](https://t.me/robin4242) (nur um Spam vorzubeugen)
+- Designer und Grafiker. [Schicke eine kurze, formlose Bewerbung an Robin](https://t.me/robin4242) (nur um Spam vorzubeugen)
 - [Freiheitscoder](https://t.me/freiheitscoder)
 
 
