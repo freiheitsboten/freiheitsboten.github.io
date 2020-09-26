@@ -208,6 +208,7 @@ Ist deine Gruppe noch nicht aufgeführt? Schicke bitte eine Nachricht mit [Grupp
 ## Schweiz 🇨🇭
 - [Bern](https://t.me/joinchat/KVZzYBzZu59IMhcQV6I8eg)
 - [Kanton Basel-Stadt / Basel-Landschaft](https://t.me/freiheitsboten_bs_bl)
+- [Luzern](https://t.me/freiheitsbotenluzern)
 - [Zürich](https://t.me/freiheitsbotenzuerich)
 - [Fribourg (Schweiz)](https://t.me/Freiheitsboten_Fribourg_Schweiz)
 
