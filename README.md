@@ -2,6 +2,10 @@
 
 Du möchtest Flugblätter, Infobriefe und Informationen in Deiner Gegend verteilen? [Komm in unsere Telegram-Gruppe und unterstütze und dabei](https://t.me/Freiheitsboten), Du findest regelmäßig neue professionelle Flugblätter und Infozettel für Deine Spaziergänge. 
 
+
+Bitte habt Verständnis, dass unsere Flyer-Logistik noch nicht ausgereift ist. Wir arbeiten mit Hochdruck daran alle Gruppen mit Flyern zu versorgen.
+
+
 Ist deine Gruppe noch nicht aufgeführt? Schicke bitte eine Nachricht mit [Gruppen-Link und Bundesland an Robin.](https://t.me/robin4242) 
 
 ## Telegram Messenger
@@ -13,6 +17,7 @@ Falls du deine Region hier nicht findest, dann ergreife selbst Initiative. Grün
 
 ## Nützliche Links
 - [Anleitung zum Gründen einer Gruppe](https://telegram.org/faq/de?ln=f#f-wie-kann-ich-eine-gruppe-erstellen)
+	- Nicht vergessen: Deine Gruppe muss *öffentlich* sein, damit du einen Link erstellen kannst.
 - [Hier findest du Tipps zum Flyer-Verteilen](tipps-beim-flyern).
 
 ## Deutschland 🇩🇪
@@ -108,6 +113,7 @@ Falls du deine Region hier nicht findest, dann ergreife selbst Initiative. Grün
 
 
 ### Niedersachsen
+- [Braunschweig](https://t.me/Freiheitsboten_BS)
 - [Celle](https://t.me/Freiheitsboten_Celle)
 - [Cuxhaven Wurster Nordseeküste](https://t.me/joinchat/AAAAAE9VePDo6yCerEJ85w)
 - [Emsland](https://t.me/joinchat/RD5FMxmjaq2ueJw2psAZdw)
