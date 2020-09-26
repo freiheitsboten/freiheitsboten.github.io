@@ -272,10 +272,10 @@ Möchtest Du mithelfen? Trete einer Orga-Gruppe bei:
 
 Wenn Du die Freiheitsboten gerne unterstützen möchtest kannst Du Bodo Geld schenken. Max. 19.999 € in 10 Jahren.
 
-[Geld mit Paypal senden](https://paypal.me/boschimo)
+Du kannst [Geld mit Paypal senden](https://paypal.me/boschimo)
 
 
-oder
+oder eine Überweisung an:
 
 
 
