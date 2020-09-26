@@ -62,7 +62,7 @@ Falls du deine Region hier nicht findest, dann ergreife selbst Initiative. [Grü
 ### Brandenburg
 - [Potsdam](https://t.me/Freiheitsboten_Potsdam)
 - [Senftenberg](https://t.me/Freiheitsboten_Senftenberg)
-
+- [Spreewald](https://t.me/Freiheitboten_Spreewald)
 
 ### Bremen
 - [Bremen](https://t.me/Freiheitsboten_Bremen)
@@ -124,6 +124,7 @@ Falls du deine Region hier nicht findest, dann ergreife selbst Initiative. [Grü
 
 
 ### Rheinland Pfalz
+- [Aareinrich](https://t.me/freiheitsbotenaareinrich)
 - [Eich](https://t.me/freiheitsboten_vgeich)
 - [Frankenthal](https://t.me/Freiheitsboten_FT)
 - [Germersheim](https://t.me/Freiheitsboten_GermersheimSpeyer)
