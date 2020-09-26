@@ -19,6 +19,7 @@ Ist deine Gruppe noch nicht aufgeführt? Schicke bitte eine Nachricht mit [Grupp
 	- Nicht vergessen: Deine Gruppe muss *öffentlich* sein, damit du einen Link erstellen kannst.
 - [Hier findest du Tipps zum Flyer-Verteilen](tipps-beim-flyern).
 
+
 ## Deutschland 🇩🇪
 ### Baden-Württemberg
 - [Bonndorf](https://t.me/Freiheitsboten_Bonndorf)
@@ -201,9 +202,6 @@ Ist deine Gruppe noch nicht aufgeführt? Schicke bitte eine Nachricht mit [Grupp
 - [Wartburgkreis](https://t.me/Freiheitsboten_Wartburgkreis)
 
 
-
-
-
 ## Schweiz 🇨🇭
 - [Bern](https://t.me/joinchat/KVZzYBzZu59IMhcQV6I8eg)
 - [Kanton Basel-Stadt / Basel-Landschaft](https://t.me/freiheitsboten_bs_bl)
@@ -212,6 +210,15 @@ Ist deine Gruppe noch nicht aufgeführt? Schicke bitte eine Nachricht mit [Grupp
 
 ## Österreich
 - [Österreich](https://t.me/freiheitsbotenoesterreichchat)
+
+
+
+## Organisation 
+
+Möchtest Du mithelfen? Trete einer Orga-Gruppe bei:
+
+- Designer und Grafiker [Schicke eine kurze formlose Bewerbung an Robin](https://t.me/robin4242) (nur um Spam vorzubeugen)
+- [Freiheitscoder](https://t.me/freiheitscoder)
 
 
 # Grafiken Herunterladen
