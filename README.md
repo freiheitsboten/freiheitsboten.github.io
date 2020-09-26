@@ -16,6 +16,7 @@ Falls du deine Region hier nicht findest, dann ergreife selbst Initiative. [Grü
 
 ### Baden-Württemberg
 - [Bonndorf](https://t.me/Freiheitsboten_Bonndorf)
+- [Calw Heimsheim](https://t.me/Freiheitsboten_Calw_Heimsheim)
 - [Landkreis Esslingen am Neckar](https://t.me/Freiheitsboten_LKR_Esslingen_N)
 - [Freiburg](https://t.me/Freiheitsboten_Freiburg)
 - [Hechingen](https://t.me/Freiheitsbote_Hechingen)
@@ -28,6 +29,7 @@ Falls du deine Region hier nicht findest, dann ergreife selbst Initiative. [Grü
 - [Stuttgart](https://t.me/Stuttgart_in_Freiheit)
 - [Tübingen](https://t.me/Querdenken_7071)
 - [Überlingen](https://t.me/Freiheitsboten_Ueberlingen)
+- [Zollernalbkreis](https://t.me/Freiheitsboten_Zollernalbkreis)
 
 ### Bayern
 - [Ansbach](https://t.me/joinchat/QOVEjBsl10GV4g4UeTaeyQ)
@@ -47,7 +49,7 @@ Falls du deine Region hier nicht findest, dann ergreife selbst Initiative. [Grü
 - [Landsberg am Lech](https://t.me/Freiheitsboten_Landsberg)
 - [Pfarrkirchen](https://t.me/FreiheitsbotenPfarrkirchen)
 - [Pfronten](https://t.me/Freiheitsboten_Pfronten_Umgebung)
-- [Regensburg](https://t.me/joinchat/Rd968BZkcixFSxUQwm_hIQ)
+- [Regensburg](https://t.me/Freiheitsboten_Regensburg)
 - [Regensburg-2](https://t.me/FreiheitsbotenRegensburg)
 - [Rosenheim](https://t.me/freiheitsboten_rosenheim)
 - [Schweinfurt](https://t.me/flyerbestellenschweinfurt)
@@ -95,7 +97,7 @@ Falls du deine Region hier nicht findest, dann ergreife selbst Initiative. [Grü
 - [Moers](https://t.me/friedensboten_Moers)
 - [Mönchengladbach](https://t.me/Freiheitsboten_MG)
 - [Münster](https://t.me/FreiheitsbotenMuenster)
-- [Münster-2](https://t.me/freiheitsboten_Muenster)
+- [Münster und das Münsterland](https://t.me/freiheitsboten_Muenster)
 - [Oberhausen](https://t.me/Freiheitsboten_Oberhausen_Rhld)
 - [Paderborn](https://t.me/Freiheitsboten_Paderborn)
 - [Siegen Wittgenstein](https://t.me/freiheitsbotensiegenwittgenstein)
