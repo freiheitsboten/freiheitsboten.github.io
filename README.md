@@ -6,6 +6,8 @@ Du möchtest Flugblätter, Infobriefe und Informationen in Deiner Gegend verteil
 Bitte habt Verständnis, dass unsere Flyer-Logistik noch nicht ausgereift ist. Wir drucken derzeit eine Auflage von 1'000'000 Flugblättern. 
 Wir arbeiten mit Hochdruck daran alle Gruppen mit Flyern zu versorgen. Innerhalb der nächsten Woche werden wir die Struktur weiter ausbauen.
 
+Idealerweise arbeitest Du in Eigeninitiative mit deinen lokalen Ortsgruppen zusammen.
+
 ## Was? Wer? Wie? Wo? Wann?
 [Hier findest du Antworten auf häufig gestellte Fragen.](/faq)
 
