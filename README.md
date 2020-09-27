@@ -17,7 +17,7 @@ Die Ortsgruppen der [Freiheitsboten](https://t.me/Freiheitsboten) in Deutschland
 Falls du deine Region hier nicht findest, dann ergreife selbst Initiative. Vernetz dich mit den anderen Gruppen in deiner Umgebung. [Gründe eine eigene Ortsgruppe](https://freiheitsboten.github.io/faq#wie-gr%C3%BCnde-ich-eine-ortsgruppe). Untereinander austauschen und voneinander lernen!
 
 Ist deine Ortsgruppe noch nicht aufgeführt? Füge den [FreiheitsBot](https://t.me/freiheits_boten_bot) zu deiner Gruppe hinzu. 
-Du findest ihn in der Usersuche als **FreiheitsBot**. Dieser Chat-Bot automatisiert deine Eintragung in das Verzeichnis!
+Du findest ihn in der Usersuche als **FreiheitsBot**. Dieser Chat-Bot automatisiert deine Eintragung in das Ortsgruppen-Verzeichnis!
 
 
 
