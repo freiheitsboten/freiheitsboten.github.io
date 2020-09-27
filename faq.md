@@ -7,7 +7,8 @@ Die Freiheitsboten vernetzen sich mit der [Telegram App](https://telegram.org/).
 ### Wie gründe ich eine Ortsgruppe?
 - [Anleitung zum Gründen einer Gruppe](https://telegram.org/faq/de?ln=f#f-wie-kann-ich-eine-gruppe-erstellen)
 	- Nicht vergessen: Deine Gruppe muss *öffentlich* sein, damit du einen Link erstellen kannst.
-- Um deine Gruppe einzutragen schicke bitte eine Nachricht mit [Gruppen-Link und Bundesland an Robin.](https://t.me/robin4242) 
+- Um deine Gruppe einzutragen füge den FreiheitsBot zu deiner Gruppe hinzu. Du findest ihn in der Usersuche als FreiheitsBot. Dieser Chat-Bot automatisiert deine Eintragung in das Verzeichnis!
+
 
 
 ### Was mache ich, nachdem ich eine Gruppe gegründet habe?
