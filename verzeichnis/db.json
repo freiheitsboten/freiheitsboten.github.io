@@ -900,7 +900,7 @@
     "state": "Baden-Württemberg"
   },
   "-1001264568437": {
-    "title": "28209 Bremen Schwachausen",
+    "title": "28209 Bremen Schwachhausen",
     "username": "frhb2",
     "country": "GER",
     "zipcode": "28209",
@@ -1004,6 +1004,5 @@
   "-1001482259241": {
     "title": "28203 Bremen Chat",
     "country": "GER",
-    "zipcode": "undefined"
-  }
-}
+    "zipcode": "28203",
+    "st
