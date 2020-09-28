@@ -20,7 +20,7 @@
 
     h1,
     h2 {
-        border-bottom: 1px solid rgba(0,0,0,0.2);
+        border-bottom: 1px solid rgba(0, 0, 0, 0.2);
         padding: 16px 0;
     }
 
@@ -44,7 +44,8 @@
             .then(response => response.json())
     }
 
-    async function listAll() {
+    async function initDatabase() {
+
         const database = await downloadDB()
 
         const myList = Object.keys(database).reduce((akku, key) => {
@@ -64,6 +65,33 @@
 
             return akku
         }, {})
+
+
+
+
+
+        for (let countryId in myList) {
+
+            for (let stateId in myList[countryId]) {
+                const groups = myList[countryId][stateId]
+
+                myList[countryId][stateId] = groups.sort((a, b) => { return a.title.localeCompare(b.title)  })
+
+
+            }
+        }
+
+
+
+
+
+        return myList
+    }
+
+
+    async function listAll() {
+
+        const myList = await initDatabase()
 
         for (let countryId in myList) {
 
