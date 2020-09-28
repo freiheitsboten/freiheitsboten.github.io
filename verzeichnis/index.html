@@ -27,6 +27,7 @@
     a,
     a:visited {
         color: teal;
+        text-decoration: none;
     }
     </style>
 </head>
@@ -48,6 +49,7 @@
 
         const database = await downloadDB()
 
+        // Nach Land und Bundesland sortieren
         const myList = Object.keys(database).reduce((akku, key) => {
             const group = database[key]
 
@@ -67,23 +69,17 @@
         }, {})
 
 
-
-
-
+        // Innderhalb der Bundesländer alphabetisch sortieren.
         for (let countryId in myList) {
 
             for (let stateId in myList[countryId]) {
                 const groups = myList[countryId][stateId]
 
-                myList[countryId][stateId] = groups.sort((a, b) => { return a.title.localeCompare(b.title)  })
-
-
+                const groupsSorted = groups.sort((a, b) => { return a.title.localeCompare(b.title) })
+                
+                myList[countryId][stateId] = groupsSorted
             }
         }
-
-
-
-
 
         return myList
     }
