@@ -1,0 +1,987 @@
+{
+  "-431709748": {
+    "title": "testgrupp2",
+    "country": "GER",
+    "zipcode": "undefined"
+  },
+  "-1001281503217": {
+    "title": "Bad Kissingen",
+    "username": "Freiheitsboten_Bad_Kissingen",
+    "country": "GER",
+    "zipcode": "97688",
+    "state": "Bayern"
+  },
+  "-1001363080855": {
+    "title": "Rems-Murr-Kreis",
+    "username": "Freiheitsboten_Rems_Murr_Kreis",
+    "country": "GER",
+    "zipcode": "71332",
+    "state": "Baden-Württemberg"
+  },
+  "-1001466270592": {
+    "title": "Arnsberg",
+    "username": "Freiheitsboten_Arnsberg",
+    "country": "GER",
+    "zipcode": "59821",
+    "state": "Nordrhein-Westfalen"
+  },
+  "-1001244604450": {
+    "title": "Bobingen",
+    "username": "Freiheitsboten_Bobingen",
+    "country": "GER",
+    "zipcode": "86399",
+    "state": "Bayern"
+  },
+  "-1001395312625": {
+    "title": "Düsseldorf",
+    "username": "Freiheitsbote_Duesseldorf",
+    "country": "GER",
+    "zipcode": "40210",
+    "state": "Nordrhein-Westfalen"
+  },
+  "-1001490854327": {
+    "title": "freiheitsbote ulm",
+    "username": "freiheitsbote_ulm",
+    "country": "GER",
+    "zipcode": "89073",
+    "state": "Baden-Württemberg"
+  },
+  "-1001171822942": {
+    "title": "Nienburg",
+    "username": "Freiheitsboten_Nienburg",
+    "country": "GER",
+    "zipcode": "31582",
+    "state": "Niedersachsen"
+  },
+  "-1001429765323": {
+    "title": "GermersheimSpeyer",
+    "username": "Freiheitsboten_GermersheimSpeyer",
+    "country": "GER",
+    "zipcode": "76726",
+    "state": "Rheinland-Pfalz"
+  },
+  "-1001183481330": {
+    "title": "A-Steiermark",
+    "username": "AUT_Freiheitsbote_Steiermark",
+    "zipcode": "undefined"
+  },
+  "-1001474734618": {
+    "title": "[[ignorieren]] Testgruppe",
+    "username": "asdasdasdasdasdq3",
+    "zipcode": "undefined"
+  },
+  "-1001499459530": {
+    "title": "Eichenau",
+    "username": "Freiheitsboten_Eichenau",
+    "country": "GER",
+    "zipcode": "82223",
+    "state": "Bayern"
+  },
+  "-1001483866468": {
+    "title": "HH-Nord Norderstedt",
+    "username": "Freiheitsboten_HH_Nord_Norderst",
+    "country": "GER",
+    "zipcode": "22393",
+    "state": "Hamburg"
+  },
+  "-1001439705324": {
+    "title": "Weilheim",
+    "username": "Freiheitsboten_Weilheim",
+    "country": "GER",
+    "zipcode": "82362",
+    "state": "Bayern"
+  },
+  "-1001386868240": {
+    "title": "Erfurt",
+    "username": "Freiheitsboten_Erfurt",
+    "country": "GER",
+    "zipcode": "99084",
+    "state": "Thüringen"
+  },
+  "-1001231291573": {
+    "title": "Landkreis Miesbach",
+    "username": "FreiheitsbotenLkrsMb",
+    "country": "GER",
+    "zipcode": "83714",
+    "state": "Bayern"
+  },
+  "-1001166709922": {
+    "title": "BabenhausenHessen",
+    "username": "Freiheitsboten_BabenhausenHessen",
+    "country": "GER",
+    "zipcode": "64832",
+    "state": "Hessen"
+  },
+  "-1001291045801": {
+    "title": "Senftenberg",
+    "username": "Freiheitsboten_Senftenberg",
+    "country": "GER",
+    "zipcode": "01968",
+    "state": "Brandenburg"
+  },
+  "-1001478233870": {
+    "title": "Heilbronn",
+    "username": "friedensboten_heilbronn",
+    "country": "GER",
+    "zipcode": "74080",
+    "state": "Baden-Württemberg"
+  },
+  "-1001412215695": {
+    "title": "Wuppertal NRW",
+    "username": "Freiheitsboten_Wuppertal_NRW",
+    "country": "GER",
+    "zipcode": "42103",
+    "state": "Nordrhein-Westfalen"
+  },
+  "-1001124931360": {
+    "title": "München",
+    "username": "freiheitsboten_muenchen",
+    "country": "GER",
+    "zipcode": "80333",
+    "state": "Bayern"
+  },
+  "-1001275987911": {
+    "title": "Oberberg",
+    "username": "Freiheitsboten_Oberberg",
+    "country": "GER",
+    "zipcode": "51643",
+    "state": "Nordrhein-Westfalen"
+  },
+  "-1001283308018": {
+    "title": "Döbeln",
+    "username": "wachtbitteALLEauf",
+    "country": "GER",
+    "zipcode": "04720",
+    "state": "Sachsen"
+  },
+  "-1001404344662": {
+    "title": "Lippstadt",
+    "username": "Freiheitsboten_Lippstadt",
+    "country": "GER",
+    "zipcode": "59556",
+    "state": "Nordrhein-Westfalen"
+  },
+  "-1001192512520": {
+    "title": "BadLiebenwerda",
+    "username": "Freiheitsboten_BadLiebenwerda",
+    "country": "GER",
+    "zipcode": "04924",
+    "state": "Brandenburg"
+  },
+  "-1001432140517": {
+    "title": "Frankenthal (Pfalz)",
+    "username": "Freiheitsboten_FT",
+    "country": "GER",
+    "zipcode": "67227",
+    "state": "Rheinland-Pfalz"
+  },
+  "-1001210968310": {
+    "title": "Schweinfurt",
+    "username": "flyerbestellenschweinfurt",
+    "country": "GER",
+    "zipcode": "97422",
+    "state": "Bayern"
+  },
+  "-383891556": {
+    "title": "Rendsburg",
+    "country": "GER",
+    "zipcode": "24768",
+    "state": "Schleswig-Holstein"
+  },
+  "-1001386566590": {
+    "title": "Wuppertal",
+    "username": "freiheitsboten_wuppertal",
+    "country": "GER",
+    "zipcode": "42103",
+    "state": "Nordrhein-Westfalen"
+  },
+  "-1001196516938": {
+    "title": "Viersen",
+    "username": "Freiheitsboten_Viersen",
+    "country": "GER",
+    "zipcode": "41751",
+    "state": "Nordrhein-Westfalen"
+  },
+  "-1001437232894": {
+    "title": "Bayreuth",
+    "username": "Freiheitsboten_Bayreuth",
+    "country": "GER",
+    "zipcode": "95445",
+    "state": "Bayern"
+  },
+  "-1001320119412": {
+    "title": "",
+    "username": "Freiheitsboten",
+    "zipcode": "undefined"
+  },
+  "-1001443812617": {
+    "title": "koblenz",
+    "username": "freiheitsboten_koblenz",
+    "country": "GER",
+    "zipcode": "56076",
+    "state": "Rheinland-Pfalz"
+  },
+  "-1001101444331": {
+    "title": "Stade",
+    "username": "freiheitsbotenstade",
+    "country": "GER",
+    "zipcode": "21682",
+    "state": "Niedersachsen"
+  },
+  "-1001170975345": {
+    "title": "Offenbach Kreis",
+    "username": "Freiheitsboten_Offenbach_Kreis",
+    "country": "GER",
+    "zipcode": "63322",
+    "state": "Hessen"
+  },
+  "-1001415574579": {
+    "title": "Darmstadt Kreis",
+    "username": "Freiheitsboten_Darmstadt_Kreis",
+    "country": "GER",
+    "zipcode": "64291",
+    "state": "Hessen"
+  },
+  "-1001496250266": {
+    "title": "Ludwigsburg",
+    "username": "Ingersheim",
+    "country": "GER",
+    "zipcode": "74379",
+    "state": "Baden-Württemberg"
+  },
+  "-1001465105810": {
+    "title": "FREIHEITSBOTEN Ebermannstadt",
+    "username": "FREIHHEITSBOTEN_Ebermannstadt",
+    "country": "GER",
+    "zipcode": "91320",
+    "state": "Bayern"
+  },
+  "-1001378097904": {
+    "title": "aschaffenburg",
+    "country": "GER",
+    "zipcode": "000000"
+  },
+  "-1001376378207": {
+    "title": "Heinsberg",
+    "username": "Freiheitsboten_Heinsberg",
+    "country": "GER",
+    "zipcode": "52525",
+    "state": "Nordrhein-Westfalen"
+  },
+  "-1001338832874": {
+    "title": "Ravensburg",
+    "username": "Freiheitsboten_RV",
+    "country": "GER",
+    "zipcode": "88212",
+    "state": "Baden-Württemberg"
+  },
+  "-1001495754797": {
+    "title": "Ostsee Flensburg bis Kiel",
+    "username": "FreiheitsbotenOstsee_FL_bis_Kiel",
+    "country": "GER",
+    "zipcode": "24376",
+    "state": "Schleswig-Holstein"
+  },
+  "-1001273608488": {
+    "title": "Kreis Bergstraße",
+    "username": "freiheitsboten_kreis_bergstrasse",
+    "country": "GER",
+    "zipcode": "64646",
+    "state": "Hessen"
+  },
+  "-1001338394251": {
+    "title": "Karlsruhe",
+    "username": "Freiheitsboten_Karlsruhe",
+    "country": "GER",
+    "zipcode": "000000"
+  },
+  "-1001342745037": {
+    "title": "Schwerin",
+    "username": "Freiheitsboten_Schwerin",
+    "country": "GER",
+    "zipcode": "19053",
+    "state": "Mecklenburg-Vorpommern"
+  },
+  "-1001347439325": {
+    "title": "Karben",
+    "username": "Karben_WetterauSued",
+    "country": "GER",
+    "zipcode": "61184",
+    "state": "Hessen"
+  },
+  "-1001245270783": {
+    "title": "Donauwörth",
+    "username": "Freiheitsboten_Donauwoerth",
+    "country": "GER",
+    "zipcode": "86609",
+    "state": "Bayern"
+  },
+  "-1001488677571": {
+    "title": "Celle",
+    "username": "Freiheitsboten_Celle",
+    "country": "GER",
+    "zipcode": "29221",
+    "state": "Niedersachsen"
+  },
+  "-1001157489035": {
+    "title": "Neubrandenburg",
+    "username": "freiheitsbotenneubrandenburg",
+    "country": "GER",
+    "zipcode": "17033",
+    "state": "Mecklenburg-Vorpommern"
+  },
+  "-1001335153748": {
+    "title": "MainTaunusKreis",
+    "username": "freiheitsboten_MTK",
+    "country": "GER",
+    "zipcode": "000000"
+  },
+  "-1001211208121": {
+    "title": "Münster",
+    "username": "freiheitsboten_Muenster",
+    "country": "GER",
+    "zipcode": "48151",
+    "state": "Nordrhein-Westfalen"
+  },
+  "-1001200088176": {
+    "title": "Regensburg",
+    "username": "Freiheitsboten_Regensburg",
+    "country": "GER",
+    "zipcode": "93047",
+    "state": "Bayern"
+  },
+  "-1001168408549": {
+    "title": "Braunschweig",
+    "username": "Freiheitsboten_BS",
+    "country": "GER",
+    "zipcode": "38100",
+    "state": "Niedersachsen"
+  },
+  "-1001341206805": {
+    "title": "Langen",
+    "username": "LangenHessen",
+    "country": "GER",
+    "zipcode": "63225",
+    "state": "Hessen"
+  },
+  "-1001426239853": {
+    "title": "Saarbrücken",
+    "username": "Freiheitsboten_Saarbruecken",
+    "country": "GER",
+    "zipcode": "undefined"
+  },
+  "-1001404233110": {
+    "title": "Peine",
+    "username": "Freiheitsboten_Peine",
+    "country": "GER",
+    "zipcode": "undefined"
+  },
+  "-1001261751040": {
+    "title": "Bielefeld",
+    "username": "angelablfd",
+    "country": "GER",
+    "zipcode": "undefined"
+  },
+  "-1001276745333": {
+    "title": "Augsburg",
+    "username": "Freiheitsboten_Augsburg",
+    "zipcode": "undefined"
+  },
+  "-1001176067410": {
+    "title": "Hanau",
+    "username": "freiheitsboten_hanau",
+    "country": "GER",
+    "zipcode": "63450",
+    "state": "Hessen"
+  },
+  "-1001335030579": {
+    "title": "Rostock DBR und drum herum Chat",
+    "country": "GER",
+    "zipcode": "18209",
+    "state": "Mecklenburg-Vorpommern"
+  },
+  "-1001370995164": {
+    "title": "Suhl",
+    "username": "Freiheitsboten_Suhl",
+    "country": "GER",
+    "zipcode": "98527",
+    "state": "Thüringen"
+  },
+  "-1001413131022": {
+    "title": "Berlin 13 Heiligensee Umkreis",
+    "country": "GER",
+    "zipcode": "13503",
+    "state": "Berlin"
+  },
+  "-412396903": {
+    "title": "BLK",
+    "country": "GER",
+    "zipcode": "000000"
+  },
+  "-1001305729156": {
+    "title": "Wiesbaden",
+    "username": "Freiheitsboten_Wiesbaden",
+    "country": "GER",
+    "zipcode": "65183",
+    "state": "Hessen"
+  },
+  "-1001442593185": {
+    "title": "Hohenlohekreis",
+    "country": "GER",
+    "zipcode": "74564",
+    "state": "Baden-Württemberg"
+  },
+  "-1001443147726": {
+    "title": "Moers Chat",
+    "username": "Freiheitsboten_Moers",
+    "country": "GER",
+    "zipcode": "000000"
+  },
+  "-407148992": {
+    "title": "Würzburg / Unterfranken",
+    "country": "GER",
+    "zipcode": "000000"
+  },
+  "-1001251240212": {
+    "title": "Hildesheim",
+    "username": "freiheitsboten_hildesheim",
+    "country": "GER",
+    "zipcode": "31137",
+    "state": "Niedersachsen"
+  },
+  "-1001280014389": {
+    "title": "Coburg",
+    "username": "Freiheitsboten_Coburg",
+    "country": "GER",
+    "zipcode": "000000"
+  },
+  "-1001486826742": {
+    "title": "Pfarrkirchen",
+    "username": "FreiheitsbotenPfarrkirchen",
+    "country": "GER",
+    "zipcode": "84140",
+    "state": "Bayern"
+  },
+  "-1001417249118": {
+    "title": "Friedensboten SUEW",
+    "username": "Friedensboten_SUEW",
+    "zipcode": "undefined"
+  },
+  "-1001454488459": {
+    "title": "Aar-Einrich",
+    "username": "freiheitsbotenaareinrich",
+    "country": "GER",
+    "zipcode": "56368",
+    "state": "Rheinland-Pfalz"
+  },
+  "-1001498721353": {
+    "title": "Gelnhausen und Umgebung",
+    "username": "freiheitsboten_GN",
+    "country": "GER",
+    "zipcode": "63571",
+    "state": "Hessen"
+  },
+  "-1001446395168": {
+    "title": "Zollernalbkreis Austausch",
+    "username": "Freiheitsboten_ZAK_Austausch",
+    "country": "GER",
+    "zipcode": "000000"
+  },
+  "-1001329416335": {
+    "title": "Gehrden",
+    "username": "Freiheitsboten_Gehrden",
+    "country": "GER",
+    "zipcode": "000000"
+  },
+  "-1001388891900": {
+    "title": "Chat VK-Flyer",
+    "username": "Voelklingen",
+    "zipcode": "undefined"
+  },
+  "-1001152549793": {
+    "title": "Berlin 124",
+    "username": "Freiheitsboten_Berlin_124",
+    "country": "GER",
+    "zipcode": "12487",
+    "state": "Berlin"
+  },
+  "-1001253084252": {
+    "title": "Dinslaken",
+    "username": "Freiheitsboten_Dinslaken",
+    "country": "GER",
+    "zipcode": "46535",
+    "state": "Nordrhein-Westfalen"
+  },
+  "-1001396132696": {
+    "title": "Dessau",
+    "country": "GER",
+    "zipcode": "06847",
+    "state": "Sachsen-Anhalt"
+  },
+  "-1001466206718": {
+    "title": "Halle Chat",
+    "country": "GER",
+    "zipcode": "06108",
+    "state": "Sachsen-Anhalt"
+  },
+  "-1001173950353": {
+    "title": "http://t.me/ Bielefeld",
+    "username": "Freiheitsboten_Bielefeld",
+    "country": "GER",
+    "zipcode": "33602",
+    "state": "Nordrhein-Westfalen"
+  },
+  "-1001483495492": {
+    "title": "GoslarSamstsg14Uhr",
+    "username": "Goslar_samstag14Uhr",
+    "country": "GER",
+    "zipcode": "000000"
+  },
+  "-1001275930554": {
+    "title": "LKR Esslingen am Neckar",
+    "username": "Freiheitsboten_LKR_Esslingen_N",
+    "country": "GER",
+    "zipcode": "73728",
+    "state": "Baden-Württemberg"
+  },
+  "-1001177139045": {
+    "title": "Bamberg",
+    "username": "Freiheitsbote_Bamberg",
+    "country": "GER",
+    "zipcode": "96047",
+    "state": "Bayern"
+  },
+  "-1001285095752": {
+    "title": "Calw Heimsheim",
+    "username": "Freiheitsboten_Calw_Heimsheim",
+    "country": "GER",
+    "zipcode": "75365",
+    "state": "Baden-Württemberg"
+  },
+  "-1001486991563": {
+    "title": "GÜNZBURG DILLINGEN",
+    "username": "freigzdil",
+    "country": "GER",
+    "zipcode": "89355",
+    "state": "Bayern"
+  },
+  "-1001362997775": {
+    "title": "Leipzig",
+    "username": "Freiheitsverteiler_Leipzig",
+    "country": "GER",
+    "zipcode": "04109",
+    "state": "Sachsen"
+  },
+  "-1001443217583": {
+    "title": "Zürich",
+    "username": "freiheitsbotenzuerich",
+    "country": "CH",
+    "zipcode": "8001",
+    "state": "Kanton Zürich"
+  },
+  "-1001451643235": {
+    "title": "Prignitz",
+    "username": "Freiheitsboten_Prignitz",
+    "country": "GER",
+    "zipcode": "000000"
+  },
+  "-1001480875664": {
+    "title": "Noerdlingen",
+    "username": "Freiheitsboten_Noerdlingen",
+    "country": "GER",
+    "zipcode": "86720",
+    "state": "Bayern"
+  },
+  "-1001357396933": {
+    "title": "Sinsheim Chat",
+    "country": "GER",
+    "zipcode": "000000"
+  },
+  "-1001366038527": {
+    "title": "LOS",
+    "username": "Freiheitsboten_LOS",
+    "country": "GER",
+    "zipcode": "15517",
+    "state": "Brandenburg"
+  },
+  "-1001320915784": {
+    "title": "MOL",
+    "username": "Freiheitsboten_MOL",
+    "country": "GER",
+    "zipcode": "15344",
+    "state": "Brandenburg"
+  },
+  "-1001276403337": {
+    "title": "Schwarzenbek",
+    "username": "ChatFreiheitsbootenSBK",
+    "country": "GER",
+    "zipcode": "undefined"
+  },
+  "-1001190081579": {
+    "title": "39517 Tangerhütte und Umgebung",
+    "username": "freiheitsboten39517Tanger",
+    "country": "GER",
+    "zipcode": "000000"
+  },
+  "-1001438015656": {
+    "title": "VGEich Chat",
+    "username": "freiheitsboten_vgeichchat",
+    "country": "GER",
+    "zipcode": "67575",
+    "state": "Rheinland-Pfalz"
+  },
+  "-1001426059062": {
+    "title": "Westerwald",
+    "username": "freiheitsboten_Westerwald",
+    "country": "GER",
+    "zipcode": "57627",
+    "state": "Rheinland-Pfalz"
+  },
+  "-1001391264500": {
+    "title": "Nordsachsen",
+    "country": "GER",
+    "zipcode": "000000"
+  },
+  "-1001155740150": {
+    "title": "Kitzingen",
+    "username": "Freiheitsboten_Kitzingen",
+    "country": "GER",
+    "zipcode": "97318",
+    "state": "Bayern"
+  },
+  "-1001286048388": {
+    "title": "Potsdam Chat",
+    "username": "Freiheitsboten_Potsdam_Chat",
+    "country": "GER",
+    "zipcode": "14469",
+    "state": "Brandenburg"
+  },
+  "-1001321694798": {
+    "title": "im Kreis Gütersloh",
+    "username": "Freiheitsboten_Kreis_Guetersloh",
+    "country": "GER",
+    "zipcode": "33330",
+    "state": "Nordrhein-Westfalen"
+  },
+  "-1001172513119": {
+    "title": "Frankfurt",
+    "username": "FreiheitsbotenFrankfurt",
+    "country": "GER",
+    "zipcode": "60306",
+    "state": "Hessen"
+  },
+  "-1001218946614": {
+    "title": "Demo/Veranstaltungen in Worms Austausch",
+    "country": "GER",
+    "zipcode": "67547",
+    "state": "Rheinland-Pfalz"
+  },
+  "-1001307763033": {
+    "title": "Rhein Neckar Kreis chat",
+    "username": "Freiheitsboten_RNK_chat",
+    "country": "GER",
+    "zipcode": "69245",
+    "state": "Baden-Württemberg"
+  },
+  "-1001409102187": {
+    "title": "Muellheim",
+    "username": "Friedensboten_Muellheim",
+    "country": "GER",
+    "zipcode": "79379",
+    "state": "Baden-Württemberg"
+  },
+  "-1001268505265": {
+    "title": "Wedemark",
+    "username": "freiheitsboten_wedemark",
+    "country": "GER",
+    "zipcode": "30900",
+    "state": "Niedersachsen"
+  },
+  "-1001290379565": {
+    "title": "Saarlouis",
+    "username": "Freiheitsboten_Saarlouis",
+    "country": "GER",
+    "zipcode": "66740",
+    "state": "Saarland"
+  },
+  "-1001463939198": {
+    "title": "Kaiserslautern",
+    "username": "Freiheitsboten_Kaiserlautern",
+    "country": "GER",
+    "zipcode": "67655",
+    "state": "Rheinland-Pfalz"
+  },
+  "-1001447275695": {
+    "title": "Österreich / WIEN",
+    "username": "freiheitsbotenwien",
+    "country": "AT",
+    "zipcode": "1010",
+    "state": "Wien"
+  },
+  "-1001474311599": {
+    "title": "Überlingen",
+    "username": "Freiheitsboten_Ueberlingen",
+    "country": "GER",
+    "zipcode": "88662",
+    "state": "Baden-Württemberg"
+  },
+  "-1001491521965": {
+    "title": "Ortsgruppe Töging/Mühldorf",
+    "username": "freiheitsboten_toeging",
+    "zipcode": "undefined"
+  },
+  "-1001401944010": {
+    "title": "Stuttgart 🤗",
+    "username": "Freiheitsbringer_Stuttgart",
+    "country": "GER",
+    "zipcode": "70182",
+    "state": "Baden-Württemberg"
+  },
+  "-424657513": {
+    "title": "Tulln",
+    "country": "AT",
+    "zipcode": "3430",
+    "state": "Niederösterreich"
+  },
+  "-1001416557519": {
+    "title": "Saarpfalzkreis",
+    "username": "Freiheitsboten_Saarpfalzkreis",
+    "country": "GER",
+    "zipcode": "66424",
+    "state": "Saarland"
+  },
+  "-1001433517770": {
+    "title": "Mainz Bingen",
+    "username": "freiheitsboten_mainz_bingen",
+    "country": "GER",
+    "zipcode": "55131",
+    "state": "Rheinland-Pfalz"
+  },
+  "-1001459561263": {
+    "title": "Oberpfalz Chat",
+    "country": "GER",
+    "zipcode": "92242",
+    "state": "Bayern"
+  },
+  "-1001483207356": {
+    "title": "Märkischer Kreis NRW",
+    "username": "freiheitsbotenMK",
+    "country": "GER",
+    "zipcode": "58638",
+    "state": "Nordrhein-Westfalen"
+  },
+  "-1001177950738": {
+    "title": "Umkirch",
+    "username": "Freiheitsboten_Umkirch",
+    "country": "GER",
+    "zipcode": "79224",
+    "state": "Baden-Württemberg"
+  },
+  "-1001444742557": {
+    "title": "Freiburg",
+    "username": "freiheitsbotenfreiburg",
+    "country": "GER",
+    "zipcode": "79104",
+    "state": "Baden-Württemberg"
+  },
+  "-1001485485359": {
+    "title": "Tulln",
+    "username": "FreiheitsbotenBezTulln",
+    "country": "AT",
+    "zipcode": "3430",
+    "state": "Niederösterreich"
+  },
+  "-1001399341375": {
+    "title": "Oldesloe",
+    "username": "oldesloe",
+    "country": "GER",
+    "zipcode": "23843",
+    "state": "Schleswig-Holstein"
+  },
+  "-1001416285282": {
+    "title": "OWL Chat",
+    "username": "FreiheitsbotenOWL_Gruppe",
+    "country": "GER",
+    "zipcode": "32758",
+    "state": "Nordrhein-Westfalen"
+  },
+  "-1001200284223": {
+    "title": "KönigsWusterhausen",
+    "username": "Freiheitsboten_KW",
+    "country": "GER",
+    "zipcode": "15712",
+    "state": "Brandenburg"
+  },
+  "-1001214839838": {
+    "title": "Bremen",
+    "username": "Freiheitsboten_Bremen",
+    "zipcode": "undefined"
+  },
+  "-1001340583891": {
+    "title": "Chat  Hamburg Süderelbe",
+    "username": "Freiheitsboten_Hamburg_Sued_Chat",
+    "country": "GER",
+    "zipcode": "21073",
+    "state": "Hamburg"
+  },
+  "-1001415355564": {
+    "title": "VG Oberes Glantal",
+    "username": "Freiheitsboten_VGOberesGlantal",
+    "country": "GER",
+    "zipcode": "66914",
+    "state": "Rheinland-Pfalz"
+  },
+  "-1001240917773": {
+    "title": "Sindelfingen/Böblingen",
+    "username": "freiheitsboten_SindelfingenBB",
+    "country": "GER",
+    "zipcode": "71063",
+    "state": "Baden-Württemberg"
+  },
+  "-285755245": {
+    "title": "Bezirk Mattersburg",
+    "country": "AT",
+    "zipcode": "7020",
+    "state": "Burgenland"
+  },
+  "-1001355113729": {
+    "title": "Essen",
+    "username": "freiheitsbotenessen",
+    "country": "GER",
+    "zipcode": "45257",
+    "state": "Nordrhein-Westfalen"
+  },
+  "-1001420085075": {
+    "title": "QUERDENKEN 5231 Detmold Orgateam / Motto: Zeit für Veränderungen",
+    "country": "GER",
+    "zipcode": "32758",
+    "state": "Nordrhein-Westfalen"
+  },
+  "-1001408829778": {
+    "title": "SLK",
+    "username": "Freiheitsboten_SLK",
+    "country": "GER",
+    "zipcode": "06406",
+    "state": "Sachsen-Anhalt"
+  },
+  "-497205859": {
+    "title": "Rhein-Kreis-Neuss",
+    "country": "GER",
+    "zipcode": "41460",
+    "state": "Nordrhein-Westfalen"
+  },
+  "-1001408426858": {
+    "title": "Querdenken5262 Chat",
+    "username": "Querdenken5262",
+    "country": "GER",
+    "zipcode": "32683",
+    "state": "Nordrhein-Westfalen"
+  },
+  "-1001188047540": {
+    "title": "VS und Umgebung",
+    "username": "FreiheitsbotenVSundUmgebung",
+    "country": "GER",
+    "zipcode": "78048",
+    "state": "Baden-Württemberg"
+  },
+  "-1001249579505": {
+    "title": "Heusenstamm",
+    "username": "Freiheitsboten_Heusenstamm",
+    "country": "GER",
+    "zipcode": "63150",
+    "state": "Hessen"
+  },
+  "-1001228571360": {
+    "title": "t.me/ Keltern 752",
+    "country": "GER",
+    "zipcode": "75210",
+    "state": "Baden-Württemberg"
+  },
+  "-1001264568437": {
+    "title": "28209 Bremen",
+    "username": "frhb2",
+    "country": "GER",
+    "zipcode": "28209",
+    "state": "Bremen"
+  },
+  "-1001456897703": {
+    "title": "HDH - Flyer",
+    "username": "HoidnaFlyer",
+    "country": "GER",
+    "zipcode": "89522",
+    "state": "Baden-Württemberg"
+  },
+  "-1001268977577": {
+    "title": "Seeshaupt",
+    "username": "freiheit_seeshaupt",
+    "country": "GER",
+    "zipcode": "undefined"
+  },
+  "-1001414943743": {
+    "title": "Worpswede",
+    "username": "freiheitsboten_worpswede",
+    "country": "GER",
+    "zipcode": "27726",
+    "state": "Niedersachsen"
+  },
+  "-1001331827665": {
+    "title": "Usedom",
+    "username": "Freiheitsboten_Usedom",
+    "country": "GER",
+    "zipcode": "17429",
+    "state": "Mecklenburg-Vorpommern"
+  },
+  "-1001429158441": {
+    "title": "-Bernkastel-Wittlich",
+    "username": "freiheitsb_bernkastwel_wittlich",
+    "country": "GER",
+    "zipcode": "54516",
+    "state": "Rheinland-Pfalz"
+  },
+  "-1001256610478": {
+    "title": "MindenLübbecke",
+    "username": "Freiheitsboten_MindenLuebbecke",
+    "country": "GER",
+    "zipcode": "32369",
+    "state": "Nordrhein-Westfalen"
+  },
+  "-469265656": {
+    "title": "Orga Gruppenverwaltung",
+    "country": "GER",
+    "zipcode": "undefined"
+  },
+  "-1001339290691": {
+    "title": "Osnabrück",
+    "username": "freiheitsboten_OS",
+    "country": "GER",
+    "zipcode": "49074",
+    "state": "Niedersachsen"
+  },
+  "-1001277957433": {
+    "title": "Bergisch Gladbach",
+    "username": "freiheitsboten_Bergisch_Gladbach",
+    "country": "GER",
+    "zipcode": "51427",
+    "state": "Nordrhein-Westfalen"
+  },
+  "-1001157020913": {
+    "title": "Kreis-Kleve",
+    "username": "BSAFVG",
+    "country": "GER",
+    "zipcode": "undefined"
+  },
+  "-1001477395561": {
+    "title": "Ortenau Chat",
+    "username": "freiheitsbotenortenau_chat",
+    "country": "GER",
+    "zipcode": "77866",
+    "state": "Baden-Württemberg"
+  },
+  "-1001232609264": {
+    "title": "Wilhelmshaven",
+    "username": "freiheitsboten_wilhelmshaven",
+    "country": "GER",
+    "zipcode": "26388",
+    "state": "Niedersachsen"
+  }
+}

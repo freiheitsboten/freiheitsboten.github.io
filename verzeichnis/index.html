@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <title></title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
+    <style type="text/css">
+    html {
+        font-family: system-ui, sans-serif;
+    }
+
+    main {
+        width: 100%;
+        padding: 8px;
+        max-width: 800px;
+        margin: 0 auto;
+    }
+
+
+    h1,
+    h2 {
+        border-bottom: 1px solid rgba(0,0,0,0.2);
+        padding: 16px 0;
+    }
+
+    a,
+    a:visited {
+        color: teal;
+    }
+    </style>
+</head>
+<main>
+    <h1>Freiheitsboten Ortsgruppen</h1>
+    <div id="$root"></div>
+</main>
+
+<body>
+    <script type="text/javascript">
+    const COUNTRIES = { 'GER': 'Deutschland', 'CH': 'Schweiz', 'AT': 'Österreich' }
+
+    function downloadDB() {
+        return fetch('db.json')
+            .then(response => response.json())
+    }
+
+    async function listAll() {
+        const database = await downloadDB()
+
+        const myList = Object.keys(database).reduce((akku, key) => {
+            const group = database[key]
+
+            if (!group.country || !group.zipcode || !group.state)
+                return akku
+
+            if (!akku[group.country])
+                akku[group.country] = {}
+
+            if (!akku[group.country][group.state])
+                akku[group.country][group.state] = []
+
+
+            akku[group.country][group.state].push(group)
+
+            return akku
+        }, {})
+
+        for (let countryId in myList) {
+
+            const $country = document.createElement('h2')
+            $country.textContent = `${COUNTRIES[countryId]}`
+            $root.appendChild($country)
+
+            for (let stateId in myList[countryId]) {
+
+                const $state = document.createElement('h3')
+                $state.textContent = `${stateId}`
+                $root.appendChild($state)
+
+
+                const $stateList = document.createElement('ul')
+                $root.appendChild($stateList)
+
+                const groups = myList[countryId][stateId]
+
+                for (let i = 0; i < groups.length; i++) {
+                    const group = groups[i]
+                    const title = group.title
+
+                    const $group = document.createElement('li')
+                    $stateList.appendChild($group)
+
+                    const $groupLink = document.createElement('a')
+                    $group.appendChild($groupLink)
+
+                    if (group.username) {
+                        $groupLink.textContent = `${title}`
+                        $groupLink.href = `https://t.me/${group.username}`
+                    } else {
+                        $groupLink.textContent = `${title} (ÖFFENTLICHER LINK FEHLT)`
+                    }
+                }
+
+            }
+        }
+    }
+    listAll()
+    </script>
+</body>
+
+</html>
