@@ -1005,4 +1005,23 @@
     "title": "28203 Bremen Chat",
     "country": "GER",
     "zipcode": "28203",
-    "st
+    "state": "Bremen"
+  },
+  "-1001465500592": {
+    "title": "Rhön",
+    "username": "Freiheitsboten_Rhoen",
+    "country": "GER",
+    "zipcode": "undefined"
+  },
+  "-450251461": {
+    "title": "28277 Bremen",
+    "country": "GER",
+    "zipcode": "undefined"
+  },
+  "-1001445586286": {
+    "title": "LKR Göppingen",
+    "username": "Freiheitsboten_LKR_GP",
+    "country": "GER",
+    "zipcode": "undefined"
+  }
+}
