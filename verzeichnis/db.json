@@ -40,7 +40,7 @@
     "state": "Nordrhein-Westfalen"
   },
   "-1001490854327": {
-    "title": "freiheitsbote ulm",
+    "title": "ulm",
     "username": "freiheitsbote_ulm",
     "country": "GER",
     "zipcode": "89073",
@@ -465,7 +465,9 @@
   "-1001417249118": {
     "title": "Friedensboten SUEW",
     "username": "Friedensboten_SUEW",
-    "zipcode": "undefined"
+    "country": "GER",
+    "zipcode": "67480",
+    "state": "Rheinland-Pfalz"
   },
   "-1001454488459": {
     "title": "Aar-Einrich",
@@ -712,7 +714,7 @@
     "state": "Rheinland-Pfalz"
   },
   "-1001447275695": {
-    "title": "Österreich / WIEN",
+    "title": "WIEN",
     "username": "freiheitsbotenwien",
     "country": "AT",
     "zipcode": "1010",
@@ -898,7 +900,7 @@
     "state": "Baden-Württemberg"
   },
   "-1001264568437": {
-    "title": "28209 Bremen",
+    "title": "28209 Bremen Schwachausen",
     "username": "frhb2",
     "country": "GER",
     "zipcode": "28209",
@@ -915,7 +917,8 @@
     "title": "Seeshaupt",
     "username": "freiheit_seeshaupt",
     "country": "GER",
-    "zipcode": "undefined"
+    "zipcode": "82402",
+    "state": "Bayern"
   },
   "-1001414943743": {
     "title": "Worpswede",
@@ -932,7 +935,7 @@
     "state": "Mecklenburg-Vorpommern"
   },
   "-1001429158441": {
-    "title": "-Bernkastel-Wittlich",
+    "title": "Bernkastel-Wittlich",
     "username": "freiheitsb_bernkastwel_wittlich",
     "country": "GER",
     "zipcode": "54516",
@@ -983,5 +986,24 @@
     "country": "GER",
     "zipcode": "26388",
     "state": "Niedersachsen"
+  },
+  "-1001378765453": {
+    "title": "Rendsburg",
+    "username": "RDwakeupcall",
+    "country": "GER",
+    "zipcode": "24768",
+    "state": "Schleswig-Holstein"
+  },
+  "-1001262918027": {
+    "title": "Herford (NRW)",
+    "username": "Freiheitsboten_Herford_NRW",
+    "country": "GER",
+    "zipcode": "32050",
+    "state": "Nordrhein-Westfalen"
+  },
+  "-1001482259241": {
+    "title": "28203 Bremen Chat",
+    "country": "GER",
+    "zipcode": "undefined"
   }
 }
